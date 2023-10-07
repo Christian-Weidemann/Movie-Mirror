@@ -1,5 +1,5 @@
 # Networks
-A Network Analysis project
+A Network Analysis project.
 
 ## Netflix Prize data
 Netflix held the Netflix Prize open competition for the best algorithm to predict user ratings for films. 
