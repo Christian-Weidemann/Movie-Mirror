@@ -1,8 +1,8 @@
 # Networks
 A Network Analysis project.
 
-## Netflix Prize data
-Netflix held the Netflix Prize open competition for the best algorithm to predict user ratings for films. 
-For this they released a representative sample of movie ratings between 1998 and 2005, consisting of 480,189 users rating 17,770 movies. Ratings were on a 5 star (1-5) scale. The data additionally contains the date of each rating, which we won't use.
+## MovieLens 100k rating data
+This directory contains the TSV and related files of the movielens-100k_rating network: This bipartite network consists of 100,000 user–movie ratings from http://movielens.umn.edu/. Left nodes are users and right nodes are movies. An edge between a user and a movie represents a rating of the movie by the user.
 
-We use the data to construct a bipartite undirected network, where ratings are edge weights.
+
+
