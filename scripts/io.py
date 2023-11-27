@@ -7,6 +7,20 @@ import os
 raw_data_path = "data/raw/"
 figure_path = "data/figures/"
 bipartite_path = "data/bipartite/"
+projection_path = "data/projections/"
+
+def save_projection(G, path, overwrite=False):
+    if overwrite or not os.path.exists(projection_path+path):
+        with open(projection_path+path, 'wb') as f:
+            pickle.dump(G, f)
+        print("Projection saved.")
+
+def load_projection(path):
+    if os.path.exists(projection_path+path):
+        with open(projection_path+path, 'rb') as f:
+            return pickle.load(f)
+    else:
+        raise ValueError(f"Projection at {projection_path+path} doesn't exist.")
 
 def save_figure(path, overwrite=False):
     path = figure_path + path 
