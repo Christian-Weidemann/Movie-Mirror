@@ -9,6 +9,16 @@ figure_path = "data/figures/"
 bipartite_path = "data/bipartite/"
 projection_path = "data/projections/"
 
+def save_edgelist(graph, file_path, overwrite=False):
+    """
+    Save a NetworkX graph with weights as an edge list at the specified file path.
+    """
+    if overwrite or not os.path.exists(projection_path+file_path):
+        with open(projection_path+file_path, 'w') as file:
+            for u, v, data in graph.edges(data=True):
+                file.write(f"{u},{v},{data['weight']}\n")
+        print("Edgelist saved.")
+
 def save_projection(G, path, overwrite=False):
     if overwrite or not os.path.exists(projection_path+path):
         with open(projection_path+path, 'wb') as f:
@@ -18,17 +28,15 @@ def save_projection(G, path, overwrite=False):
 def load_projection(path):
     if os.path.exists(projection_path+path):
         with open(projection_path+path, 'rb') as f:
+            print("Projection loaded.")
             return pickle.load(f)
     else:
         raise ValueError(f"Projection at {projection_path+path} doesn't exist.")
 
 def save_figure(path, overwrite=False):
-    path = figure_path + path 
-    if overwrite:
-        plt.savefig(path, bbox_inches="tight")
-    else:
-        if not os.path.exists(path):
-            plt.savefig(path, bbox_inches="tight")
+    if overwrite or not os.path.exists(figure_path+path):
+        plt.savefig(figure_path+path, bbox_inches="tight")
+        print("Figure saved.")
 
 def load_movie_titles():
     # Loading dicts of nodes:movie titles and movie titles:nodes
