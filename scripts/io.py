@@ -9,7 +9,7 @@ figure_path = "data/figures/"
 bipartite_path = "data/bipartite/"
 projection_path = "data/projections/"
 
-def save_edgelist(k, graph, file_path, title_dict, overwrite=False):
+def save_edgelist(k, graph, file_path, overwrite=False):
     """
     Save a NetworkX graph with weights as an edge list at the specified file path.
     Import into gephi with Data Laboratory > Import Spreadsheet.
@@ -23,18 +23,6 @@ def save_edgelist(k, graph, file_path, title_dict, overwrite=False):
             for u, v, weight in k_highest_weight_edges:
                 file.write(f"{u},{v},{weight}\n")
         print("Edgelist saved.")
-
-        nodes = set()
-        for u, v, w in k_highest_weight_edges:
-            nodes.add(u)
-            nodes.add(v)
-
-        with open(projection_path+file_path+"_labels.csv", 'w') as file:
-            file.write(f"Id;Title\n")
-            for node in nodes:
-                file.write(f"{node};{title_dict[node]}\n")
-        print("Edgelist saved.")
-
 
 
 def save_projection(G, path, overwrite=False):
