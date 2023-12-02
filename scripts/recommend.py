@@ -39,7 +39,7 @@ def evaluation_recommendation(movie_graph, liked_movie_list):
     # Checking that types are correct
     if type(movie_graph) not in [nx.Graph, nx.DiGraph] or type(liked_movie_list) != list:
         raise TypeError(f"Argument(s) have wrong type: {type(movie_graph)}, {type(liked_movie_list)}.")
-    edges = dict((liked_movie_node, list(d_graph.edges(liked_movie_node, data=True))) for liked_movie_node in liked_movie_list)
+    edges = dict((liked_movie_node, list(movie_graph.edges(liked_movie_node, data=True))) for liked_movie_node in liked_movie_list)
     sorted_average_weights = sort_average_weight(get_average_weight_per_movie(edges))
     return [movie_node for movie_node, weight in sorted_average_weights]
     
