@@ -32,14 +32,19 @@ def k_recommend_from_list(k, movie_graph, liked_movie_list):
     return n_neighbors
 
     
-def evaluation_recommendation(movie_graph, liked_movie_list):
+def evaluation_recommendation(movie_graph, liked_movie_list, rated_movies):
     """
     Returns neighbor nodes sorted by average weight
     """
     # Checking that types are correct
     if type(movie_graph) not in [nx.Graph, nx.DiGraph] or type(liked_movie_list) != list:
         raise TypeError(f"Argument(s) have wrong type: {type(movie_graph)}, {type(liked_movie_list)}.")
-    edges = dict((liked_movie_node, list(movie_graph.edges(liked_movie_node, data=True))) for liked_movie_node in liked_movie_list)
+    
+    # Considering only edges from liked movies to rated movies
+    edges = dict()
+    for liked_movie_node in liked_movie_list:
+        edges[liked_movie_node] = [edge for edge in movie_graph.edges(liked_movie_node, data=True) if edge[1] in rated_movies]
+
     sorted_average_weights = sort_average_weight(get_average_weight_per_movie(edges))
     return [movie_node for movie_node, weight in sorted_average_weights]
     
