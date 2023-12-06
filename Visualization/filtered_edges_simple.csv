@@ -1,0 +1,991 @@
+Source,Target,Weight,Label1,Label2
+1,7,0.2979851537645811,Toy Story (1995),Twelve Monkeys (1995)
+1,9,0.21314952279957583,Toy Story (1995),Dead Man Walking (1995)
+1,15,0.23435843054082714,Toy Story (1995),Mr. Holland's Opus (1995)
+1,22,0.2067868504772004,Toy Story (1995),Braveheart (1995)
+1,25,0.23647932131495228,Toy Story (1995),"Birdcage, The (1996)"
+1,50,0.40402969247083775,Toy Story (1995),Star Wars (1977)
+1,56,0.2576882290562036,Toy Story (1995),Pulp Fiction (1994)
+1,69,0.23966065747614,Toy Story (1995),Forrest Gump (1994)
+1,79,0.24390243902439024,Toy Story (1995),"Fugitive, The (1993)"
+1,96,0.21951219512195122,Toy Story (1995),Terminator 2: Judgment Day (1991)
+1,98,0.25874867444326616,Toy Story (1995),"Silence of the Lambs, The (1991)"
+1,100,0.344644750795334,Toy Story (1995),Fargo (1996)
+1,117,0.3064687168610817,Toy Story (1995),"Rock, The (1996)"
+1,118,0.2449628844114528,Toy Story (1995),Twister (1996)
+1,121,0.3329798515376458,Toy Story (1995),Independence Day (ID4) (1996)
+1,127,0.26617179215270415,Toy Story (1995),"Godfather, The (1972)"
+1,151,0.2757158006362672,Toy Story (1995),Willy Wonka and the Chocolate Factory (1971)
+1,168,0.2301166489925769,Toy Story (1995),Monty Python and the Holy Grail (1974)
+1,172,0.2598091198303287,Toy Story (1995),"Empire Strikes Back, The (1980)"
+1,173,0.23117709437963946,Toy Story (1995),"Princess Bride, The (1987)"
+1,174,0.28950159066808057,Toy Story (1995),Raiders of the Lost Ark (1981)
+1,181,0.3605514316012725,Toy Story (1995),Return of the Jedi (1983)
+1,183,0.20784729586426298,Toy Story (1995),Alien (1979)
+1,195,0.22163308589607636,Toy Story (1995),"Terminator, The (1984)"
+1,204,0.2523860021208908,Toy Story (1995),Back to the Future (1985)
+1,210,0.23647932131495228,Toy Story (1995),Indiana Jones and the Last Crusade (1989)
+1,216,0.20254506892895016,Toy Story (1995),When Harry Met Sally... (1989)
+1,222,0.2831389183457052,Toy Story (1995),Star Trek: First Contact (1996)
+1,237,0.2863202545068929,Toy Story (1995),Jerry Maguire (1996)
+1,257,0.23753976670201485,Toy Story (1995),Men in Black (1997)
+1,258,0.26935312831389185,Toy Story (1995),Contact (1997)
+1,269,0.13467656415694593,Toy Story (1995),"Full Monty, The (1997)"
+1,276,0.2110286320254507,Toy Story (1995),Leaving Las Vegas (1995)
+1,286,0.2142099681866384,Toy Story (1995),"English Patient, The (1996)"
+1,288,0.23435843054082714,Toy Story (1995),Scream (1996)
+1,294,0.2682926829268293,Toy Story (1995),Liar Liar (1997)
+1,300,0.2046659597030753,Toy Story (1995),Air Force One (1997)
+1,302,0.12513255567338283,Toy Story (1995),L.A. Confidential (1997)
+1,313,0.1664899257688229,Toy Story (1995),Titanic (1997)
+1,318,0.20360551431601273,Toy Story (1995),Schindler's List (1993)
+1,328,0.13891834570519618,Toy Story (1995),Conspiracy Theory (1997)
+1,405,0.2831389183457052,Toy Story (1995),Mission: Impossible (1996)
+1,423,0.21845174973488865,Toy Story (1995),E.T. the Extra-Terrestrial (1982)
+1,748,0.17391304347826086,Toy Story (1995),"Saint, The (1997)"
+7,9,0.20360551431601273,Twelve Monkeys (1995),Dead Man Walking (1995)
+7,15,0.17497348886532343,Twelve Monkeys (1995),Mr. Holland's Opus (1995)
+7,22,0.18981972428419935,Twelve Monkeys (1995),Braveheart (1995)
+7,25,0.20996818663838812,Twelve Monkeys (1995),"Birdcage, The (1996)"
+7,50,0.34358430540827145,Twelve Monkeys (1995),Star Wars (1977)
+7,56,0.26193001060445387,Twelve Monkeys (1995),Pulp Fiction (1994)
+7,69,0.19830328738069988,Twelve Monkeys (1995),Forrest Gump (1994)
+7,79,0.2205726405090138,Twelve Monkeys (1995),"Fugitive, The (1993)"
+7,96,0.20996818663838812,Twelve Monkeys (1995),Terminator 2: Judgment Day (1991)
+7,98,0.25344644750795337,Twelve Monkeys (1995),"Silence of the Lambs, The (1991)"
+7,100,0.33934252386002123,Twelve Monkeys (1995),Fargo (1996)
+7,117,0.28207847295864263,Twelve Monkeys (1995),"Rock, The (1996)"
+7,118,0.20784729586426298,Twelve Monkeys (1995),Twister (1996)
+7,121,0.2916224814422057,Twelve Monkeys (1995),Independence Day (ID4) (1996)
+7,127,0.2417815482502651,Twelve Monkeys (1995),"Godfather, The (1972)"
+7,151,0.23753976670201485,Twelve Monkeys (1995),Willy Wonka and the Chocolate Factory (1971)
+7,168,0.19300106044538706,Twelve Monkeys (1995),Monty Python and the Holy Grail (1974)
+7,172,0.22481442205726404,Twelve Monkeys (1995),"Empire Strikes Back, The (1980)"
+7,173,0.19936373276776245,Twelve Monkeys (1995),"Princess Bride, The (1987)"
+7,174,0.25556733828207845,Twelve Monkeys (1995),Raiders of the Lost Ark (1981)
+7,181,0.31283138918345704,Twelve Monkeys (1995),Return of the Jedi (1983)
+7,183,0.20360551431601273,Twelve Monkeys (1995),Alien (1979)
+7,195,0.20784729586426298,Twelve Monkeys (1995),"Terminator, The (1984)"
+7,204,0.20996818663838812,Twelve Monkeys (1995),Back to the Future (1985)
+7,210,0.19830328738069988,Twelve Monkeys (1995),Indiana Jones and the Last Crusade (1989)
+7,216,0.17815482502651114,Twelve Monkeys (1995),When Harry Met Sally... (1989)
+7,222,0.24814422057264052,Twelve Monkeys (1995),Star Trek: First Contact (1996)
+7,237,0.24072110286320256,Twelve Monkeys (1995),Jerry Maguire (1996)
+7,257,0.19936373276776245,Twelve Monkeys (1995),Men in Black (1997)
+7,258,0.25556733828207845,Twelve Monkeys (1995),Contact (1997)
+7,269,0.11876988335100742,Twelve Monkeys (1995),"Full Monty, The (1997)"
+7,276,0.20042417815482502,Twelve Monkeys (1995),Leaving Las Vegas (1995)
+7,286,0.19406150583244963,Twelve Monkeys (1995),"English Patient, The (1996)"
+7,288,0.2523860021208908,Twelve Monkeys (1995),Scream (1996)
+7,294,0.23860021208907742,Twelve Monkeys (1995),Liar Liar (1997)
+7,300,0.17709437963944857,Twelve Monkeys (1995),Air Force One (1997)
+7,302,0.13361611876988336,Twelve Monkeys (1995),L.A. Confidential (1997)
+7,313,0.14528101802757157,Twelve Monkeys (1995),Titanic (1997)
+7,318,0.17073170731707318,Twelve Monkeys (1995),Schindler's List (1993)
+7,328,0.12513255567338283,Twelve Monkeys (1995),Conspiracy Theory (1997)
+7,405,0.2513255567338282,Twelve Monkeys (1995),Mission: Impossible (1996)
+7,423,0.1855779427359491,Twelve Monkeys (1995),E.T. the Extra-Terrestrial (1982)
+7,748,0.14846235418875928,Twelve Monkeys (1995),"Saint, The (1997)"
+9,15,0.16436903499469777,Dead Man Walking (1995),Mr. Holland's Opus (1995)
+9,22,0.13679745493107104,Dead Man Walking (1995),Braveheart (1995)
+9,25,0.15270413573700956,Dead Man Walking (1995),"Birdcage, The (1996)"
+9,50,0.24072110286320256,Dead Man Walking (1995),Star Wars (1977)
+9,56,0.1728525980911983,Dead Man Walking (1995),Pulp Fiction (1994)
+9,69,0.15270413573700956,Dead Man Walking (1995),Forrest Gump (1994)
+9,79,0.13997879109225875,Dead Man Walking (1995),"Fugitive, The (1993)"
+9,96,0.12513255567338283,Dead Man Walking (1995),Terminator 2: Judgment Day (1991)
+9,98,0.1792152704135737,Dead Man Walking (1995),"Silence of the Lambs, The (1991)"
+9,100,0.26193001060445387,Dead Man Walking (1995),Fargo (1996)
+9,117,0.19300106044538706,Dead Man Walking (1995),"Rock, The (1996)"
+9,118,0.14528101802757157,Dead Man Walking (1995),Twister (1996)
+9,121,0.20042417815482502,Dead Man Walking (1995),Independence Day (ID4) (1996)
+9,127,0.2046659597030753,Dead Man Walking (1995),"Godfather, The (1972)"
+9,151,0.14952279957582185,Dead Man Walking (1995),Willy Wonka and the Chocolate Factory (1971)
+9,168,0.1378579003181336,Dead Man Walking (1995),Monty Python and the Holy Grail (1974)
+9,172,0.14846235418875928,Dead Man Walking (1995),"Empire Strikes Back, The (1980)"
+9,173,0.11983032873807,Dead Man Walking (1995),"Princess Bride, The (1987)"
+9,174,0.17391304347826086,Dead Man Walking (1995),Raiders of the Lost Ark (1981)
+9,181,0.20890774125132555,Dead Man Walking (1995),Return of the Jedi (1983)
+9,183,0.12725344644750794,Dead Man Walking (1995),Alien (1979)
+9,195,0.1325556733828208,Dead Man Walking (1995),"Terminator, The (1984)"
+9,204,0.15164369034994699,Dead Man Walking (1995),Back to the Future (1985)
+9,210,0.1325556733828208,Dead Man Walking (1995),Indiana Jones and the Last Crusade (1989)
+9,216,0.13679745493107104,Dead Man Walking (1995),When Harry Met Sally... (1989)
+9,222,0.1633085896076352,Dead Man Walking (1995),Star Trek: First Contact (1996)
+9,237,0.20360551431601273,Dead Man Walking (1995),Jerry Maguire (1996)
+9,257,0.1283138918345705,Dead Man Walking (1995),Men in Black (1997)
+9,258,0.1855779427359491,Dead Man Walking (1995),Contact (1997)
+9,269,0.10180275715800637,Dead Man Walking (1995),"Full Monty, The (1997)"
+9,276,0.19618239660657477,Dead Man Walking (1995),Leaving Las Vegas (1995)
+9,286,0.1919406150583245,Dead Man Walking (1995),"English Patient, The (1996)"
+9,288,0.1633085896076352,Dead Man Walking (1995),Scream (1996)
+9,294,0.16861081654294804,Dead Man Walking (1995),Liar Liar (1997)
+9,300,0.14422057264050903,Dead Man Walking (1995),Air Force One (1997)
+9,302,0.10922587486744433,Dead Man Walking (1995),L.A. Confidential (1997)
+9,313,0.11664899257688228,Dead Man Walking (1995),Titanic (1997)
+9,318,0.15270413573700956,Dead Man Walking (1995),Schindler's List (1993)
+9,328,0.10392364793213149,Dead Man Walking (1995),Conspiracy Theory (1997)
+9,405,0.16755037115588547,Dead Man Walking (1995),Mission: Impossible (1996)
+9,423,0.13149522799575822,Dead Man Walking (1995),E.T. the Extra-Terrestrial (1982)
+9,748,0.10392364793213149,Dead Man Walking (1995),"Saint, The (1997)"
+15,22,0.13361611876988336,Mr. Holland's Opus (1995),Braveheart (1995)
+15,25,0.17815482502651114,Mr. Holland's Opus (1995),"Birdcage, The (1996)"
+15,50,0.2417815482502651,Mr. Holland's Opus (1995),Star Wars (1977)
+15,56,0.14952279957582185,Mr. Holland's Opus (1995),Pulp Fiction (1994)
+15,69,0.15906680805938495,Mr. Holland's Opus (1995),Forrest Gump (1994)
+15,79,0.13467656415694593,Mr. Holland's Opus (1995),"Fugitive, The (1993)"
+15,96,0.11983032873807,Mr. Holland's Opus (1995),Terminator 2: Judgment Day (1991)
+15,98,0.16436903499469777,Mr. Holland's Opus (1995),"Silence of the Lambs, The (1991)"
+15,100,0.22481442205726404,Mr. Holland's Opus (1995),Fargo (1996)
+15,117,0.19618239660657477,Mr. Holland's Opus (1995),"Rock, The (1996)"
+15,118,0.16861081654294804,Mr. Holland's Opus (1995),Twister (1996)
+15,121,0.22481442205726404,Mr. Holland's Opus (1995),Independence Day (ID4) (1996)
+15,127,0.17497348886532343,Mr. Holland's Opus (1995),"Godfather, The (1972)"
+15,151,0.18027571580063625,Mr. Holland's Opus (1995),Willy Wonka and the Chocolate Factory (1971)
+15,168,0.12937433722163308,Mr. Holland's Opus (1995),Monty Python and the Holy Grail (1974)
+15,172,0.15482502651113467,Mr. Holland's Opus (1995),"Empire Strikes Back, The (1980)"
+15,173,0.13467656415694593,Mr. Holland's Opus (1995),"Princess Bride, The (1987)"
+15,174,0.16755037115588547,Mr. Holland's Opus (1995),Raiders of the Lost Ark (1981)
+15,181,0.22269353128313893,Mr. Holland's Opus (1995),Return of the Jedi (1983)
+15,183,0.10816542948038176,Mr. Holland's Opus (1995),Alien (1979)
+15,195,0.12089077412513255,Mr. Holland's Opus (1995),"Terminator, The (1984)"
+15,204,0.1569459172852598,Mr. Holland's Opus (1995),Back to the Future (1985)
+15,210,0.14528101802757157,Mr. Holland's Opus (1995),Indiana Jones and the Last Crusade (1989)
+15,216,0.1420996818663839,Mr. Holland's Opus (1995),When Harry Met Sally... (1989)
+15,222,0.18345705196182396,Mr. Holland's Opus (1995),Star Trek: First Contact (1996)
+15,237,0.22481442205726404,Mr. Holland's Opus (1995),Jerry Maguire (1996)
+15,257,0.1474019088016967,Mr. Holland's Opus (1995),Men in Black (1997)
+15,258,0.1728525980911983,Mr. Holland's Opus (1995),Contact (1997)
+15,269,0.08589607635206786,Mr. Holland's Opus (1995),"Full Monty, The (1997)"
+15,276,0.15800636267232238,Mr. Holland's Opus (1995),Leaving Las Vegas (1995)
+15,286,0.16012725344644752,Mr. Holland's Opus (1995),"English Patient, The (1996)"
+15,288,0.1633085896076352,Mr. Holland's Opus (1995),Scream (1996)
+15,294,0.18663838812301167,Mr. Holland's Opus (1995),Liar Liar (1997)
+15,300,0.14103923647932132,Mr. Holland's Opus (1995),Air Force One (1997)
+15,302,0.07635206786850478,Mr. Holland's Opus (1995),L.A. Confidential (1997)
+15,313,0.1102863202545069,Mr. Holland's Opus (1995),Titanic (1997)
+15,318,0.13679745493107104,Mr. Holland's Opus (1995),Schindler's List (1993)
+15,328,0.10604453870625663,Mr. Holland's Opus (1995),Conspiracy Theory (1997)
+15,405,0.18345705196182396,Mr. Holland's Opus (1995),Mission: Impossible (1996)
+15,423,0.1420996818663839,Mr. Holland's Opus (1995),E.T. the Extra-Terrestrial (1982)
+15,748,0.12195121951219512,Mr. Holland's Opus (1995),"Saint, The (1997)"
+22,25,0.1325556733828208,Braveheart (1995),"Birdcage, The (1996)"
+22,50,0.2767762460233298,Braveheart (1995),Star Wars (1977)
+22,56,0.24708377518557795,Braveheart (1995),Pulp Fiction (1994)
+22,69,0.23223753976670203,Braveheart (1995),Forrest Gump (1994)
+22,79,0.22481442205726404,Braveheart (1995),"Fugitive, The (1993)"
+22,96,0.20784729586426298,Braveheart (1995),Terminator 2: Judgment Day (1991)
+22,98,0.2354188759278897,Braveheart (1995),"Silence of the Lambs, The (1991)"
+22,100,0.2258748674443266,Braveheart (1995),Fargo (1996)
+22,117,0.1919406150583245,Braveheart (1995),"Rock, The (1996)"
+22,118,0.1474019088016967,Braveheart (1995),Twister (1996)
+22,121,0.20996818663838812,Braveheart (1995),Independence Day (ID4) (1996)
+22,127,0.20042417815482502,Braveheart (1995),"Godfather, The (1972)"
+22,151,0.15800636267232238,Braveheart (1995),Willy Wonka and the Chocolate Factory (1971)
+22,168,0.20254506892895016,Braveheart (1995),Monty Python and the Holy Grail (1974)
+22,172,0.2492046659597031,Braveheart (1995),"Empire Strikes Back, The (1980)"
+22,173,0.19830328738069988,Braveheart (1995),"Princess Bride, The (1987)"
+22,174,0.2735949098621421,Braveheart (1995),Raiders of the Lost Ark (1981)
+22,181,0.2523860021208908,Braveheart (1995),Return of the Jedi (1983)
+22,183,0.19830328738069988,Braveheart (1995),Alien (1979)
+22,195,0.2163308589607635,Braveheart (1995),"Terminator, The (1984)"
+22,204,0.2258748674443266,Braveheart (1995),Back to the Future (1985)
+22,210,0.2258748674443266,Braveheart (1995),Indiana Jones and the Last Crusade (1989)
+22,216,0.1823966065747614,Braveheart (1995),When Harry Met Sally... (1989)
+22,222,0.18451749734888653,Braveheart (1995),Star Trek: First Contact (1996)
+22,237,0.16861081654294804,Braveheart (1995),Jerry Maguire (1996)
+22,257,0.13467656415694593,Braveheart (1995),Men in Black (1997)
+22,258,0.18345705196182396,Braveheart (1995),Contact (1997)
+22,269,0.09650053022269353,Braveheart (1995),"Full Monty, The (1997)"
+22,276,0.12725344644750794,Braveheart (1995),Leaving Las Vegas (1995)
+22,286,0.14634146341463414,Braveheart (1995),"English Patient, The (1996)"
+22,288,0.16542948038176034,Braveheart (1995),Scream (1996)
+22,294,0.18451749734888653,Braveheart (1995),Liar Liar (1997)
+22,300,0.13467656415694593,Braveheart (1995),Air Force One (1997)
+22,302,0.09862142099681867,Braveheart (1995),L.A. Confidential (1997)
+22,313,0.12089077412513255,Braveheart (1995),Titanic (1997)
+22,318,0.20360551431601273,Braveheart (1995),Schindler's List (1993)
+22,328,0.09650053022269353,Braveheart (1995),Conspiracy Theory (1997)
+22,405,0.17815482502651114,Braveheart (1995),Mission: Impossible (1996)
+22,423,0.20572640509013787,Braveheart (1995),E.T. the Extra-Terrestrial (1982)
+22,748,0.10604453870625663,Braveheart (1995),"Saint, The (1997)"
+25,50,0.25344644750795337,"Birdcage, The (1996)",Star Wars (1977)
+25,56,0.17073170731707318,"Birdcage, The (1996)",Pulp Fiction (1994)
+25,69,0.16755037115588547,"Birdcage, The (1996)",Forrest Gump (1994)
+25,79,0.16224814422057265,"Birdcage, The (1996)","Fugitive, The (1993)"
+25,96,0.13679745493107104,"Birdcage, The (1996)",Terminator 2: Judgment Day (1991)
+25,98,0.17709437963944857,"Birdcage, The (1996)","Silence of the Lambs, The (1991)"
+25,100,0.24284199363732767,"Birdcage, The (1996)",Fargo (1996)
+25,117,0.2046659597030753,"Birdcage, The (1996)","Rock, The (1996)"
+25,118,0.16861081654294804,"Birdcage, The (1996)",Twister (1996)
+25,121,0.23647932131495228,"Birdcage, The (1996)",Independence Day (ID4) (1996)
+25,127,0.1823966065747614,"Birdcage, The (1996)","Godfather, The (1972)"
+25,151,0.18981972428419935,"Birdcage, The (1996)",Willy Wonka and the Chocolate Factory (1971)
+25,168,0.15482502651113467,"Birdcage, The (1996)",Monty Python and the Holy Grail (1974)
+25,172,0.16118769883351008,"Birdcage, The (1996)","Empire Strikes Back, The (1980)"
+25,173,0.15800636267232238,"Birdcage, The (1996)","Princess Bride, The (1987)"
+25,174,0.1823966065747614,"Birdcage, The (1996)",Raiders of the Lost Ark (1981)
+25,181,0.2301166489925769,"Birdcage, The (1996)",Return of the Jedi (1983)
+25,183,0.13043478260869565,"Birdcage, The (1996)",Alien (1979)
+25,195,0.1378579003181336,"Birdcage, The (1996)","Terminator, The (1984)"
+25,204,0.17179215270413573,"Birdcage, The (1996)",Back to the Future (1985)
+25,210,0.16542948038176034,"Birdcage, The (1996)",Indiana Jones and the Last Crusade (1989)
+25,216,0.15482502651113467,"Birdcage, The (1996)",When Harry Met Sally... (1989)
+25,222,0.18345705196182396,"Birdcage, The (1996)",Star Trek: First Contact (1996)
+25,237,0.21739130434782608,"Birdcage, The (1996)",Jerry Maguire (1996)
+25,257,0.16542948038176034,"Birdcage, The (1996)",Men in Black (1997)
+25,258,0.18769883351007424,"Birdcage, The (1996)",Contact (1997)
+25,269,0.10498409331919406,"Birdcage, The (1996)","Full Monty, The (1997)"
+25,276,0.15800636267232238,"Birdcage, The (1996)",Leaving Las Vegas (1995)
+25,286,0.16012725344644752,"Birdcage, The (1996)","English Patient, The (1996)"
+25,288,0.17815482502651114,"Birdcage, The (1996)",Scream (1996)
+25,294,0.18027571580063625,"Birdcage, The (1996)",Liar Liar (1997)
+25,300,0.1378579003181336,"Birdcage, The (1996)",Air Force One (1997)
+25,302,0.08695652173913043,"Birdcage, The (1996)",L.A. Confidential (1997)
+25,313,0.11346765641569459,"Birdcage, The (1996)",Titanic (1997)
+25,318,0.13361611876988336,"Birdcage, The (1996)",Schindler's List (1993)
+25,328,0.09968186638388123,"Birdcage, The (1996)",Conspiracy Theory (1997)
+25,405,0.20572640509013787,"Birdcage, The (1996)",Mission: Impossible (1996)
+25,423,0.15588547189819724,"Birdcage, The (1996)",E.T. the Extra-Terrestrial (1982)
+25,748,0.11240721102863202,"Birdcage, The (1996)","Saint, The (1997)"
+50,56,0.34994697773064687,Star Wars (1977),Pulp Fiction (1994)
+50,69,0.30116648992576883,Star Wars (1977),Forrest Gump (1994)
+50,79,0.3149522799575822,Star Wars (1977),"Fugitive, The (1993)"
+50,96,0.2873806998939555,Star Wars (1977),Terminator 2: Judgment Day (1991)
+50,98,0.3552492046659597,Star Wars (1977),"Silence of the Lambs, The (1991)"
+50,100,0.4178154825026511,Star Wars (1977),Fargo (1996)
+50,117,0.33085896076352067,Star Wars (1977),"Rock, The (1996)"
+50,118,0.26299045599151644,Star Wars (1977),Twister (1996)
+50,121,0.383881230116649,Star Wars (1977),Independence Day (ID4) (1996)
+50,127,0.37857900318133614,Star Wars (1977),"Godfather, The (1972)"
+50,151,0.29692470837751855,Star Wars (1977),Willy Wonka and the Chocolate Factory (1971)
+50,168,0.2948038176033934,Star Wars (1977),Monty Python and the Holy Grail (1974)
+50,172,0.36585365853658536,Star Wars (1977),"Empire Strikes Back, The (1980)"
+50,173,0.30116648992576883,Star Wars (1977),"Princess Bride, The (1987)"
+50,174,0.4029692470837752,Star Wars (1977),Raiders of the Lost Ark (1981)
+50,181,0.5090137857900318,Star Wars (1977),Return of the Jedi (1983)
+50,183,0.2831389183457052,Star Wars (1977),Alien (1979)
+50,195,0.2948038176033934,Star Wars (1977),"Terminator, The (1984)"
+50,204,0.32767762460233296,Star Wars (1977),Back to the Future (1985)
+50,210,0.32237539766702017,Star Wars (1977),Indiana Jones and the Last Crusade (1989)
+50,216,0.26299045599151644,Star Wars (1977),When Harry Met Sally... (1989)
+50,222,0.33510074231177095,Star Wars (1977),Star Trek: First Contact (1996)
+50,237,0.3138918345705196,Star Wars (1977),Jerry Maguire (1996)
+50,257,0.2873806998939555,Star Wars (1977),Men in Black (1997)
+50,258,0.35418875927889715,Star Wars (1977),Contact (1997)
+50,269,0.18451749734888653,Star Wars (1977),"Full Monty, The (1997)"
+50,276,0.2449628844114528,Star Wars (1977),Leaving Las Vegas (1995)
+50,286,0.28844114528101805,Star Wars (1977),"English Patient, The (1996)"
+50,288,0.30010604453870626,Star Wars (1977),Scream (1996)
+50,294,0.32767762460233296,Star Wars (1977),Liar Liar (1997)
+50,300,0.25556733828207845,Star Wars (1977),Air Force One (1997)
+50,302,0.16755037115588547,Star Wars (1977),L.A. Confidential (1997)
+50,313,0.20890774125132555,Star Wars (1977),Titanic (1997)
+50,318,0.26193001060445387,Star Wars (1977),Schindler's List (1993)
+50,328,0.1728525980911983,Star Wars (1977),Conspiracy Theory (1997)
+50,405,0.3075291622481442,Star Wars (1977),Mission: Impossible (1996)
+50,423,0.2873806998939555,Star Wars (1977),E.T. the Extra-Terrestrial (1982)
+50,748,0.20996818663838812,Star Wars (1977),"Saint, The (1997)"
+56,69,0.26299045599151644,Pulp Fiction (1994),Forrest Gump (1994)
+56,79,0.28101802757158006,Pulp Fiction (1994),"Fugitive, The (1993)"
+56,96,0.25556733828207845,Pulp Fiction (1994),Terminator 2: Judgment Day (1991)
+56,98,0.31919406150583246,Pulp Fiction (1994),"Silence of the Lambs, The (1991)"
+56,100,0.30965005302226933,Pulp Fiction (1994),Fargo (1996)
+56,117,0.23329798515376457,Pulp Fiction (1994),"Rock, The (1996)"
+56,118,0.16967126193001061,Pulp Fiction (1994),Twister (1996)
+56,121,0.25874867444326616,Pulp Fiction (1994),Independence Day (ID4) (1996)
+56,127,0.2513255567338282,Pulp Fiction (1994),"Godfather, The (1972)"
+56,151,0.19724284199363734,Pulp Fiction (1994),Willy Wonka and the Chocolate Factory (1971)
+56,168,0.2545068928950159,Pulp Fiction (1994),Monty Python and the Holy Grail (1974)
+56,172,0.2926829268292683,Pulp Fiction (1994),"Empire Strikes Back, The (1980)"
+56,173,0.2545068928950159,Pulp Fiction (1994),"Princess Bride, The (1987)"
+56,174,0.3329798515376458,Pulp Fiction (1994),Raiders of the Lost Ark (1981)
+56,181,0.3064687168610817,Pulp Fiction (1994),Return of the Jedi (1983)
+56,183,0.24708377518557795,Pulp Fiction (1994),Alien (1979)
+56,195,0.26193001060445387,Pulp Fiction (1994),"Terminator, The (1984)"
+56,204,0.2948038176033934,Pulp Fiction (1994),Back to the Future (1985)
+56,210,0.271474019088017,Pulp Fiction (1994),Indiana Jones and the Last Crusade (1989)
+56,216,0.23753976670201485,Pulp Fiction (1994),When Harry Met Sally... (1989)
+56,222,0.22163308589607636,Pulp Fiction (1994),Star Trek: First Contact (1996)
+56,237,0.20784729586426298,Pulp Fiction (1994),Jerry Maguire (1996)
+56,257,0.16118769883351008,Pulp Fiction (1994),Men in Black (1997)
+56,258,0.22693531283138918,Pulp Fiction (1994),Contact (1997)
+56,269,0.12089077412513255,Pulp Fiction (1994),"Full Monty, The (1997)"
+56,276,0.16012725344644752,Pulp Fiction (1994),Leaving Las Vegas (1995)
+56,286,0.18875927889713678,Pulp Fiction (1994),"English Patient, The (1996)"
+56,288,0.23223753976670203,Pulp Fiction (1994),Scream (1996)
+56,294,0.2258748674443266,Pulp Fiction (1994),Liar Liar (1997)
+56,300,0.15906680805938495,Pulp Fiction (1994),Air Force One (1997)
+56,302,0.13043478260869565,Pulp Fiction (1994),L.A. Confidential (1997)
+56,313,0.1420996818663839,Pulp Fiction (1994),Titanic (1997)
+56,318,0.22799575821845175,Pulp Fiction (1994),Schindler's List (1993)
+56,328,0.11452810180275716,Pulp Fiction (1994),Conspiracy Theory (1997)
+56,405,0.21527041357370094,Pulp Fiction (1994),Mission: Impossible (1996)
+56,423,0.23966065747614,Pulp Fiction (1994),E.T. the Extra-Terrestrial (1982)
+56,748,0.13043478260869565,Pulp Fiction (1994),"Saint, The (1997)"
+69,79,0.23966065747614,Forrest Gump (1994),"Fugitive, The (1993)"
+69,96,0.21951219512195122,Forrest Gump (1994),Terminator 2: Judgment Day (1991)
+69,98,0.271474019088017,Forrest Gump (1994),"Silence of the Lambs, The (1991)"
+69,100,0.24072110286320256,Forrest Gump (1994),Fargo (1996)
+69,117,0.20042417815482502,Forrest Gump (1994),"Rock, The (1996)"
+69,118,0.15906680805938495,Forrest Gump (1994),Twister (1996)
+69,121,0.23117709437963946,Forrest Gump (1994),Independence Day (ID4) (1996)
+69,127,0.21208907741251326,Forrest Gump (1994),"Godfather, The (1972)"
+69,151,0.18345705196182396,Forrest Gump (1994),Willy Wonka and the Chocolate Factory (1971)
+69,168,0.23329798515376457,Forrest Gump (1994),Monty Python and the Holy Grail (1974)
+69,172,0.2608695652173913,Forrest Gump (1994),"Empire Strikes Back, The (1980)"
+69,173,0.23117709437963946,Forrest Gump (1994),"Princess Bride, The (1987)"
+69,174,0.2948038176033934,Forrest Gump (1994),Raiders of the Lost Ark (1981)
+69,181,0.2735949098621421,Forrest Gump (1994),Return of the Jedi (1983)
+69,183,0.2110286320254507,Forrest Gump (1994),Alien (1979)
+69,195,0.2301166489925769,Forrest Gump (1994),"Terminator, The (1984)"
+69,204,0.2651113467656416,Forrest Gump (1994),Back to the Future (1985)
+69,210,0.24602332979851538,Forrest Gump (1994),Indiana Jones and the Last Crusade (1989)
+69,216,0.22905620360551432,Forrest Gump (1994),When Harry Met Sally... (1989)
+69,222,0.19406150583244963,Forrest Gump (1994),Star Trek: First Contact (1996)
+69,237,0.2014846235418876,Forrest Gump (1994),Jerry Maguire (1996)
+69,257,0.14634146341463414,Forrest Gump (1994),Men in Black (1997)
+69,258,0.18345705196182396,Forrest Gump (1994),Contact (1997)
+69,269,0.09862142099681867,Forrest Gump (1994),"Full Monty, The (1997)"
+69,276,0.14103923647932132,Forrest Gump (1994),Leaving Las Vegas (1995)
+69,286,0.16755037115588547,Forrest Gump (1994),"English Patient, The (1996)"
+69,288,0.1633085896076352,Forrest Gump (1994),Scream (1996)
+69,294,0.18875927889713678,Forrest Gump (1994),Liar Liar (1997)
+69,300,0.1357370095440085,Forrest Gump (1994),Air Force One (1997)
+69,302,0.09013785790031813,Forrest Gump (1994),L.A. Confidential (1997)
+69,313,0.12089077412513255,Forrest Gump (1994),Titanic (1997)
+69,318,0.22481442205726404,Forrest Gump (1994),Schindler's List (1993)
+69,328,0.10180275715800637,Forrest Gump (1994),Conspiracy Theory (1997)
+69,405,0.19830328738069988,Forrest Gump (1994),Mission: Impossible (1996)
+69,423,0.2492046659597031,Forrest Gump (1994),E.T. the Extra-Terrestrial (1982)
+69,748,0.09968186638388123,Forrest Gump (1994),"Saint, The (1997)"
+79,96,0.24390243902439024,"Fugitive, The (1993)",Terminator 2: Judgment Day (1991)
+79,98,0.27465535524920465,"Fugitive, The (1993)","Silence of the Lambs, The (1991)"
+79,100,0.24602332979851538,"Fugitive, The (1993)",Fargo (1996)
+79,117,0.2205726405090138,"Fugitive, The (1993)","Rock, The (1996)"
+79,118,0.1728525980911983,"Fugitive, The (1993)",Twister (1996)
+79,121,0.24708377518557795,"Fugitive, The (1993)",Independence Day (ID4) (1996)
+79,127,0.2163308589607635,"Fugitive, The (1993)","Godfather, The (1972)"
+79,151,0.18663838812301167,"Fugitive, The (1993)",Willy Wonka and the Chocolate Factory (1971)
+79,168,0.22693531283138918,"Fugitive, The (1993)",Monty Python and the Holy Grail (1974)
+79,172,0.2704135737009544,"Fugitive, The (1993)","Empire Strikes Back, The (1980)"
+79,173,0.23435843054082714,"Fugitive, The (1993)","Princess Bride, The (1987)"
+79,174,0.30328738069989397,"Fugitive, The (1993)",Raiders of the Lost Ark (1981)
+79,181,0.2873806998939555,"Fugitive, The (1993)",Return of the Jedi (1983)
+79,183,0.22693531283138918,"Fugitive, The (1993)",Alien (1979)
+79,195,0.23966065747614,"Fugitive, The (1993)","Terminator, The (1984)"
+79,204,0.25344644750795337,"Fugitive, The (1993)",Back to the Future (1985)
+79,210,0.2523860021208908,"Fugitive, The (1993)",Indiana Jones and the Last Crusade (1989)
+79,216,0.21208907741251326,"Fugitive, The (1993)",When Harry Met Sally... (1989)
+79,222,0.2163308589607635,"Fugitive, The (1993)",Star Trek: First Contact (1996)
+79,237,0.19088016967126192,"Fugitive, The (1993)",Jerry Maguire (1996)
+79,257,0.14634146341463414,"Fugitive, The (1993)",Men in Black (1997)
+79,258,0.19724284199363734,"Fugitive, The (1993)",Contact (1997)
+79,269,0.11134676564156946,"Fugitive, The (1993)","Full Monty, The (1997)"
+79,276,0.1357370095440085,"Fugitive, The (1993)",Leaving Las Vegas (1995)
+79,286,0.15270413573700956,"Fugitive, The (1993)","English Patient, The (1996)"
+79,288,0.17815482502651114,"Fugitive, The (1993)",Scream (1996)
+79,294,0.19300106044538706,"Fugitive, The (1993)",Liar Liar (1997)
+79,300,0.15270413573700956,"Fugitive, The (1993)",Air Force One (1997)
+79,302,0.11346765641569459,"Fugitive, The (1993)",L.A. Confidential (1997)
+79,313,0.1261930010604454,"Fugitive, The (1993)",Titanic (1997)
+79,318,0.2067868504772004,"Fugitive, The (1993)",Schindler's List (1993)
+79,328,0.10498409331919406,"Fugitive, The (1993)",Conspiracy Theory (1997)
+79,405,0.21208907741251326,"Fugitive, The (1993)",Mission: Impossible (1996)
+79,423,0.22799575821845175,"Fugitive, The (1993)",E.T. the Extra-Terrestrial (1982)
+79,748,0.11876988335100742,"Fugitive, The (1993)","Saint, The (1997)"
+96,98,0.23860021208907742,Terminator 2: Judgment Day (1991),"Silence of the Lambs, The (1991)"
+96,100,0.22481442205726404,Terminator 2: Judgment Day (1991),Fargo (1996)
+96,117,0.2014846235418876,Terminator 2: Judgment Day (1991),"Rock, The (1996)"
+96,118,0.15164369034994699,Terminator 2: Judgment Day (1991),Twister (1996)
+96,121,0.2258748674443266,Terminator 2: Judgment Day (1991),Independence Day (ID4) (1996)
+96,127,0.20254506892895016,Terminator 2: Judgment Day (1991),"Godfather, The (1972)"
+96,151,0.1664899257688229,Terminator 2: Judgment Day (1991),Willy Wonka and the Chocolate Factory (1971)
+96,168,0.21208907741251326,Terminator 2: Judgment Day (1991),Monty Python and the Holy Grail (1974)
+96,172,0.2598091198303287,Terminator 2: Judgment Day (1991),"Empire Strikes Back, The (1980)"
+96,173,0.22163308589607636,Terminator 2: Judgment Day (1991),"Princess Bride, The (1987)"
+96,174,0.2767762460233298,Terminator 2: Judgment Day (1991),Raiders of the Lost Ark (1981)
+96,181,0.2651113467656416,Terminator 2: Judgment Day (1991),Return of the Jedi (1983)
+96,183,0.22481442205726404,Terminator 2: Judgment Day (1991),Alien (1979)
+96,195,0.25344644750795337,Terminator 2: Judgment Day (1991),"Terminator, The (1984)"
+96,204,0.23223753976670203,Terminator 2: Judgment Day (1991),Back to the Future (1985)
+96,210,0.2301166489925769,Terminator 2: Judgment Day (1991),Indiana Jones and the Last Crusade (1989)
+96,216,0.1823966065747614,Terminator 2: Judgment Day (1991),When Harry Met Sally... (1989)
+96,222,0.19936373276776245,Terminator 2: Judgment Day (1991),Star Trek: First Contact (1996)
+96,237,0.16118769883351008,Terminator 2: Judgment Day (1991),Jerry Maguire (1996)
+96,257,0.13891834570519618,Terminator 2: Judgment Day (1991),Men in Black (1997)
+96,258,0.17709437963944857,Terminator 2: Judgment Day (1991),Contact (1997)
+96,269,0.08377518557794274,Terminator 2: Judgment Day (1991),"Full Monty, The (1997)"
+96,276,0.11983032873807,Terminator 2: Judgment Day (1991),Leaving Las Vegas (1995)
+96,286,0.11770943796394485,Terminator 2: Judgment Day (1991),"English Patient, The (1996)"
+96,288,0.16861081654294804,Terminator 2: Judgment Day (1991),Scream (1996)
+96,294,0.16755037115588547,Terminator 2: Judgment Day (1991),Liar Liar (1997)
+96,300,0.12725344644750794,Terminator 2: Judgment Day (1991),Air Force One (1997)
+96,302,0.0911983032873807,Terminator 2: Judgment Day (1991),L.A. Confidential (1997)
+96,313,0.11346765641569459,Terminator 2: Judgment Day (1991),Titanic (1997)
+96,318,0.17815482502651114,Terminator 2: Judgment Day (1991),Schindler's List (1993)
+96,328,0.09225874867444327,Terminator 2: Judgment Day (1991),Conspiracy Theory (1997)
+96,405,0.19300106044538706,Terminator 2: Judgment Day (1991),Mission: Impossible (1996)
+96,423,0.20042417815482502,Terminator 2: Judgment Day (1991),E.T. the Extra-Terrestrial (1982)
+96,748,0.10922587486744433,Terminator 2: Judgment Day (1991),"Saint, The (1997)"
+98,100,0.3075291622481442,"Silence of the Lambs, The (1991)",Fargo (1996)
+98,117,0.2258748674443266,"Silence of the Lambs, The (1991)","Rock, The (1996)"
+98,118,0.17497348886532343,"Silence of the Lambs, The (1991)",Twister (1996)
+98,121,0.26193001060445387,"Silence of the Lambs, The (1991)",Independence Day (ID4) (1996)
+98,127,0.24814422057264052,"Silence of the Lambs, The (1991)","Godfather, The (1972)"
+98,151,0.20890774125132555,"Silence of the Lambs, The (1991)",Willy Wonka and the Chocolate Factory (1971)
+98,168,0.26193001060445387,"Silence of the Lambs, The (1991)",Monty Python and the Holy Grail (1974)
+98,172,0.2948038176033934,"Silence of the Lambs, The (1991)","Empire Strikes Back, The (1980)"
+98,173,0.25556733828207845,"Silence of the Lambs, The (1991)","Princess Bride, The (1987)"
+98,174,0.3297985153764581,"Silence of the Lambs, The (1991)",Raiders of the Lost Ark (1981)
+98,181,0.3138918345705196,"Silence of the Lambs, The (1991)",Return of the Jedi (1983)
+98,183,0.2523860021208908,"Silence of the Lambs, The (1991)",Alien (1979)
+98,195,0.24814422057264052,"Silence of the Lambs, The (1991)","Terminator, The (1984)"
+98,204,0.28525980911983034,"Silence of the Lambs, The (1991)",Back to the Future (1985)
+98,210,0.26193001060445387,"Silence of the Lambs, The (1991)",Indiana Jones and the Last Crusade (1989)
+98,216,0.23753976670201485,"Silence of the Lambs, The (1991)",When Harry Met Sally... (1989)
+98,222,0.22693531283138918,"Silence of the Lambs, The (1991)",Star Trek: First Contact (1996)
+98,237,0.21527041357370094,"Silence of the Lambs, The (1991)",Jerry Maguire (1996)
+98,257,0.15482502651113467,"Silence of the Lambs, The (1991)",Men in Black (1997)
+98,258,0.21739130434782608,"Silence of the Lambs, The (1991)",Contact (1997)
+98,269,0.1261930010604454,"Silence of the Lambs, The (1991)","Full Monty, The (1997)"
+98,276,0.17073170731707318,"Silence of the Lambs, The (1991)",Leaving Las Vegas (1995)
+98,286,0.19724284199363734,"Silence of the Lambs, The (1991)","English Patient, The (1996)"
+98,288,0.21739130434782608,"Silence of the Lambs, The (1991)",Scream (1996)
+98,294,0.21845174973488865,"Silence of the Lambs, The (1991)",Liar Liar (1997)
+98,300,0.15906680805938495,"Silence of the Lambs, The (1991)",Air Force One (1997)
+98,302,0.11983032873807,"Silence of the Lambs, The (1991)",L.A. Confidential (1997)
+98,313,0.14528101802757157,"Silence of the Lambs, The (1991)",Titanic (1997)
+98,318,0.23329798515376457,"Silence of the Lambs, The (1991)",Schindler's List (1993)
+98,328,0.10816542948038176,"Silence of the Lambs, The (1991)",Conspiracy Theory (1997)
+98,405,0.20572640509013787,"Silence of the Lambs, The (1991)",Mission: Impossible (1996)
+98,423,0.24814422057264052,"Silence of the Lambs, The (1991)",E.T. the Extra-Terrestrial (1982)
+98,748,0.11983032873807,"Silence of the Lambs, The (1991)","Saint, The (1997)"
+100,117,0.30116648992576883,Fargo (1996),"Rock, The (1996)"
+100,118,0.2205726405090138,Fargo (1996),Twister (1996)
+100,121,0.32873806998939553,Fargo (1996),Independence Day (ID4) (1996)
+100,127,0.3138918345705196,Fargo (1996),"Godfather, The (1972)"
+100,151,0.26299045599151644,Fargo (1996),Willy Wonka and the Chocolate Factory (1971)
+100,168,0.24602332979851538,Fargo (1996),Monty Python and the Holy Grail (1974)
+100,172,0.264050901378579,Fargo (1996),"Empire Strikes Back, The (1980)"
+100,173,0.2354188759278897,Fargo (1996),"Princess Bride, The (1987)"
+100,174,0.30434782608695654,Fargo (1996),Raiders of the Lost Ark (1981)
+100,181,0.3669141039236479,Fargo (1996),Return of the Jedi (1983)
+100,183,0.22163308589607636,Fargo (1996),Alien (1979)
+100,195,0.22269353128313893,Fargo (1996),"Terminator, The (1984)"
+100,204,0.2608695652173913,Fargo (1996),Back to the Future (1985)
+100,210,0.2417815482502651,Fargo (1996),Indiana Jones and the Last Crusade (1989)
+100,216,0.22269353128313893,Fargo (1996),When Harry Met Sally... (1989)
+100,222,0.271474019088017,Fargo (1996),Star Trek: First Contact (1996)
+100,237,0.3107104984093319,Fargo (1996),Jerry Maguire (1996)
+100,257,0.22905620360551432,Fargo (1996),Men in Black (1997)
+100,258,0.28844114528101805,Fargo (1996),Contact (1997)
+100,269,0.18769883351007424,Fargo (1996),"Full Monty, The (1997)"
+100,276,0.26299045599151644,Fargo (1996),Leaving Las Vegas (1995)
+100,286,0.29056203605514314,Fargo (1996),"English Patient, The (1996)"
+100,288,0.28525980911983034,Fargo (1996),Scream (1996)
+100,294,0.27783669141039236,Fargo (1996),Liar Liar (1997)
+100,300,0.22905620360551432,Fargo (1996),Air Force One (1997)
+100,302,0.16861081654294804,Fargo (1996),L.A. Confidential (1997)
+100,313,0.18663838812301167,Fargo (1996),Titanic (1997)
+100,318,0.23223753976670203,Fargo (1996),Schindler's List (1993)
+100,328,0.15164369034994699,Fargo (1996),Conspiracy Theory (1997)
+100,405,0.26935312831389185,Fargo (1996),Mission: Impossible (1996)
+100,423,0.2205726405090138,Fargo (1996),E.T. the Extra-Terrestrial (1982)
+100,748,0.17073170731707318,Fargo (1996),"Saint, The (1997)"
+117,118,0.23329798515376457,"Rock, The (1996)",Twister (1996)
+117,121,0.3170731707317073,"Rock, The (1996)",Independence Day (ID4) (1996)
+117,127,0.23223753976670203,"Rock, The (1996)","Godfather, The (1972)"
+117,151,0.22693531283138918,"Rock, The (1996)",Willy Wonka and the Chocolate Factory (1971)
+117,168,0.18027571580063625,"Rock, The (1996)",Monty Python and the Holy Grail (1974)
+117,172,0.21739130434782608,"Rock, The (1996)","Empire Strikes Back, The (1980)"
+117,173,0.18875927889713678,"Rock, The (1996)","Princess Bride, The (1987)"
+117,174,0.24390243902439024,"Rock, The (1996)",Raiders of the Lost Ark (1981)
+117,181,0.3107104984093319,"Rock, The (1996)",Return of the Jedi (1983)
+117,183,0.17497348886532343,"Rock, The (1996)",Alien (1979)
+117,195,0.19936373276776245,"Rock, The (1996)","Terminator, The (1984)"
+117,204,0.2046659597030753,"Rock, The (1996)",Back to the Future (1985)
+117,210,0.2046659597030753,"Rock, The (1996)",Indiana Jones and the Last Crusade (1989)
+117,216,0.16967126193001061,"Rock, The (1996)",When Harry Met Sally... (1989)
+117,222,0.24708377518557795,"Rock, The (1996)",Star Trek: First Contact (1996)
+117,237,0.2651113467656416,"Rock, The (1996)",Jerry Maguire (1996)
+117,257,0.2110286320254507,"Rock, The (1996)",Men in Black (1997)
+117,258,0.24602332979851538,"Rock, The (1996)",Contact (1997)
+117,269,0.11134676564156946,"Rock, The (1996)","Full Monty, The (1997)"
+117,276,0.1951219512195122,"Rock, The (1996)",Leaving Las Vegas (1995)
+117,286,0.176033934252386,"Rock, The (1996)","English Patient, The (1996)"
+117,288,0.22693531283138918,"Rock, The (1996)",Scream (1996)
+117,294,0.25026511134676566,"Rock, The (1996)",Liar Liar (1997)
+117,300,0.19618239660657477,"Rock, The (1996)",Air Force One (1997)
+117,302,0.11452810180275716,"Rock, The (1996)",L.A. Confidential (1997)
+117,313,0.1537645811240721,"Rock, The (1996)",Titanic (1997)
+117,318,0.17073170731707318,"Rock, The (1996)",Schindler's List (1993)
+117,328,0.14103923647932132,"Rock, The (1996)",Conspiracy Theory (1997)
+117,405,0.2831389183457052,"Rock, The (1996)",Mission: Impossible (1996)
+117,423,0.18981972428419935,"Rock, The (1996)",E.T. the Extra-Terrestrial (1982)
+117,748,0.17073170731707318,"Rock, The (1996)","Saint, The (1997)"
+118,121,0.27465535524920465,Twister (1996),Independence Day (ID4) (1996)
+118,127,0.1792152704135737,Twister (1996),"Godfather, The (1972)"
+118,151,0.18769883351007424,Twister (1996),Willy Wonka and the Chocolate Factory (1971)
+118,168,0.13997879109225875,Twister (1996),Monty Python and the Holy Grail (1974)
+118,172,0.17073170731707318,Twister (1996),"Empire Strikes Back, The (1980)"
+118,173,0.13997879109225875,Twister (1996),"Princess Bride, The (1987)"
+118,174,0.19088016967126192,Twister (1996),Raiders of the Lost Ark (1981)
+118,181,0.2513255567338282,Twister (1996),Return of the Jedi (1983)
+118,183,0.13997879109225875,Twister (1996),Alien (1979)
+118,195,0.14952279957582185,Twister (1996),"Terminator, The (1984)"
+118,204,0.1664899257688229,Twister (1996),Back to the Future (1985)
+118,210,0.16436903499469777,Twister (1996),Indiana Jones and the Last Crusade (1989)
+118,216,0.1325556733828208,Twister (1996),When Harry Met Sally... (1989)
+118,222,0.20254506892895016,Twister (1996),Star Trek: First Contact (1996)
+118,237,0.2014846235418876,Twister (1996),Jerry Maguire (1996)
+118,257,0.1728525980911983,Twister (1996),Men in Black (1997)
+118,258,0.18133616118769882,Twister (1996),Contact (1997)
+118,269,0.0689289501590668,Twister (1996),"Full Monty, The (1997)"
+118,276,0.1378579003181336,Twister (1996),Leaving Las Vegas (1995)
+118,286,0.12725344644750794,Twister (1996),"English Patient, The (1996)"
+118,288,0.17815482502651114,Twister (1996),Scream (1996)
+118,294,0.1823966065747614,Twister (1996),Liar Liar (1997)
+118,300,0.15058324496288442,Twister (1996),Air Force One (1997)
+118,302,0.0784729586426299,Twister (1996),L.A. Confidential (1997)
+118,313,0.11558854718981973,Twister (1996),Titanic (1997)
+118,318,0.1325556733828208,Twister (1996),Schindler's List (1993)
+118,328,0.09968186638388123,Twister (1996),Conspiracy Theory (1997)
+118,405,0.23117709437963946,Twister (1996),Mission: Impossible (1996)
+118,423,0.15058324496288442,Twister (1996),E.T. the Extra-Terrestrial (1982)
+118,748,0.1283138918345705,Twister (1996),"Saint, The (1997)"
+121,127,0.256627783669141,Independence Day (ID4) (1996),"Godfather, The (1972)"
+121,151,0.26193001060445387,Independence Day (ID4) (1996),Willy Wonka and the Chocolate Factory (1971)
+121,168,0.21739130434782608,Independence Day (ID4) (1996),Monty Python and the Holy Grail (1974)
+121,172,0.264050901378579,Independence Day (ID4) (1996),"Empire Strikes Back, The (1980)"
+121,173,0.22693531283138918,Independence Day (ID4) (1996),"Princess Bride, The (1987)"
+121,174,0.2831389183457052,Independence Day (ID4) (1996),Raiders of the Lost Ark (1981)
+121,181,0.35949098621421,Independence Day (ID4) (1996),Return of the Jedi (1983)
+121,183,0.20784729586426298,Independence Day (ID4) (1996),Alien (1979)
+121,195,0.21951219512195122,Independence Day (ID4) (1996),"Terminator, The (1984)"
+121,204,0.2492046659597031,Independence Day (ID4) (1996),Back to the Future (1985)
+121,210,0.2513255567338282,Independence Day (ID4) (1996),Indiana Jones and the Last Crusade (1989)
+121,216,0.2014846235418876,Independence Day (ID4) (1996),When Harry Met Sally... (1989)
+121,222,0.28950159066808057,Independence Day (ID4) (1996),Star Trek: First Contact (1996)
+121,237,0.28525980911983034,Independence Day (ID4) (1996),Jerry Maguire (1996)
+121,257,0.23966065747614,Independence Day (ID4) (1996),Men in Black (1997)
+121,258,0.26617179215270415,Independence Day (ID4) (1996),Contact (1997)
+121,269,0.12089077412513255,Independence Day (ID4) (1996),"Full Monty, The (1997)"
+121,276,0.19618239660657477,Independence Day (ID4) (1996),Leaving Las Vegas (1995)
+121,286,0.18769883351007424,Independence Day (ID4) (1996),"English Patient, The (1996)"
+121,288,0.24284199363732767,Independence Day (ID4) (1996),Scream (1996)
+121,294,0.25556733828207845,Independence Day (ID4) (1996),Liar Liar (1997)
+121,300,0.20996818663838812,Independence Day (ID4) (1996),Air Force One (1997)
+121,302,0.11770943796394485,Independence Day (ID4) (1996),L.A. Confidential (1997)
+121,313,0.1664899257688229,Independence Day (ID4) (1996),Titanic (1997)
+121,318,0.19406150583244963,Independence Day (ID4) (1996),Schindler's List (1993)
+121,328,0.13467656415694593,Independence Day (ID4) (1996),Conspiracy Theory (1997)
+121,405,0.3329798515376458,Independence Day (ID4) (1996),Mission: Impossible (1996)
+121,423,0.21845174973488865,Independence Day (ID4) (1996),E.T. the Extra-Terrestrial (1982)
+121,748,0.16755037115588547,Independence Day (ID4) (1996),"Saint, The (1997)"
+127,151,0.18981972428419935,"Godfather, The (1972)",Willy Wonka and the Chocolate Factory (1971)
+127,168,0.19936373276776245,"Godfather, The (1972)",Monty Python and the Holy Grail (1974)
+127,172,0.23223753976670203,"Godfather, The (1972)","Empire Strikes Back, The (1980)"
+127,173,0.18981972428419935,"Godfather, The (1972)","Princess Bride, The (1987)"
+127,174,0.2704135737009544,"Godfather, The (1972)",Raiders of the Lost Ark (1981)
+127,181,0.32873806998939553,"Godfather, The (1972)",Return of the Jedi (1983)
+127,183,0.20360551431601273,"Godfather, The (1972)",Alien (1979)
+127,195,0.2110286320254507,"Godfather, The (1972)","Terminator, The (1984)"
+127,204,0.22375397667020147,"Godfather, The (1972)",Back to the Future (1985)
+127,210,0.2110286320254507,"Godfather, The (1972)",Indiana Jones and the Last Crusade (1989)
+127,216,0.19088016967126192,"Godfather, The (1972)",When Harry Met Sally... (1989)
+127,222,0.2067868504772004,"Godfather, The (1972)",Star Trek: First Contact (1996)
+127,237,0.22905620360551432,"Godfather, The (1972)",Jerry Maguire (1996)
+127,257,0.18663838812301167,"Godfather, The (1972)",Men in Black (1997)
+127,258,0.2354188759278897,"Godfather, The (1972)",Contact (1997)
+127,269,0.14634146341463414,"Godfather, The (1972)","Full Monty, The (1997)"
+127,276,0.19830328738069988,"Godfather, The (1972)",Leaving Las Vegas (1995)
+127,286,0.23117709437963946,"Godfather, The (1972)","English Patient, The (1996)"
+127,288,0.21845174973488865,"Godfather, The (1972)",Scream (1996)
+127,294,0.2205726405090138,"Godfather, The (1972)",Liar Liar (1997)
+127,300,0.18451749734888653,"Godfather, The (1972)",Air Force One (1997)
+127,302,0.14103923647932132,"Godfather, The (1972)",L.A. Confidential (1997)
+127,313,0.14528101802757157,"Godfather, The (1972)",Titanic (1997)
+127,318,0.19406150583244963,"Godfather, The (1972)",Schindler's List (1993)
+127,328,0.1283138918345705,"Godfather, The (1972)",Conspiracy Theory (1997)
+127,405,0.20572640509013787,"Godfather, The (1972)",Mission: Impossible (1996)
+127,423,0.19406150583244963,"Godfather, The (1972)",E.T. the Extra-Terrestrial (1982)
+127,748,0.1357370095440085,"Godfather, The (1972)","Saint, The (1997)"
+151,168,0.1951219512195122,Willy Wonka and the Chocolate Factory (1971),Monty Python and the Holy Grail (1974)
+151,172,0.20254506892895016,Willy Wonka and the Chocolate Factory (1971),"Empire Strikes Back, The (1980)"
+151,173,0.18875927889713678,Willy Wonka and the Chocolate Factory (1971),"Princess Bride, The (1987)"
+151,174,0.22375397667020147,Willy Wonka and the Chocolate Factory (1971),Raiders of the Lost Ark (1981)
+151,181,0.2788971367974549,Willy Wonka and the Chocolate Factory (1971),Return of the Jedi (1983)
+151,183,0.16012725344644752,Willy Wonka and the Chocolate Factory (1971),Alien (1979)
+151,195,0.17073170731707318,Willy Wonka and the Chocolate Factory (1971),"Terminator, The (1984)"
+151,204,0.20360551431601273,Willy Wonka and the Chocolate Factory (1971),Back to the Future (1985)
+151,210,0.18663838812301167,Willy Wonka and the Chocolate Factory (1971),Indiana Jones and the Last Crusade (1989)
+151,216,0.17073170731707318,Willy Wonka and the Chocolate Factory (1971),When Harry Met Sally... (1989)
+151,222,0.2258748674443266,Willy Wonka and the Chocolate Factory (1971),Star Trek: First Contact (1996)
+151,237,0.21739130434782608,Willy Wonka and the Chocolate Factory (1971),Jerry Maguire (1996)
+151,257,0.1823966065747614,Willy Wonka and the Chocolate Factory (1971),Men in Black (1997)
+151,258,0.19406150583244963,Willy Wonka and the Chocolate Factory (1971),Contact (1997)
+151,269,0.09013785790031813,Willy Wonka and the Chocolate Factory (1971),"Full Monty, The (1997)"
+151,276,0.1537645811240721,Willy Wonka and the Chocolate Factory (1971),Leaving Las Vegas (1995)
+151,286,0.15164369034994699,Willy Wonka and the Chocolate Factory (1971),"English Patient, The (1996)"
+151,288,0.19088016967126192,Willy Wonka and the Chocolate Factory (1971),Scream (1996)
+151,294,0.1919406150583245,Willy Wonka and the Chocolate Factory (1971),Liar Liar (1997)
+151,300,0.1378579003181336,Willy Wonka and the Chocolate Factory (1971),Air Force One (1997)
+151,302,0.088016967126193,Willy Wonka and the Chocolate Factory (1971),L.A. Confidential (1997)
+151,313,0.11876988335100742,Willy Wonka and the Chocolate Factory (1971),Titanic (1997)
+151,318,0.15164369034994699,Willy Wonka and the Chocolate Factory (1971),Schindler's List (1993)
+151,328,0.09225874867444327,Willy Wonka and the Chocolate Factory (1971),Conspiracy Theory (1997)
+151,405,0.21845174973488865,Willy Wonka and the Chocolate Factory (1971),Mission: Impossible (1996)
+151,423,0.17815482502651114,Willy Wonka and the Chocolate Factory (1971),E.T. the Extra-Terrestrial (1982)
+151,748,0.12089077412513255,Willy Wonka and the Chocolate Factory (1971),"Saint, The (1997)"
+168,172,0.256627783669141,Monty Python and the Holy Grail (1974),"Empire Strikes Back, The (1980)"
+168,173,0.23966065747614,Monty Python and the Holy Grail (1974),"Princess Bride, The (1987)"
+168,174,0.2841993637327678,Monty Python and the Holy Grail (1974),Raiders of the Lost Ark (1981)
+168,181,0.2672322375397667,Monty Python and the Holy Grail (1974),Return of the Jedi (1983)
+168,183,0.20572640509013787,Monty Python and the Holy Grail (1974),Alien (1979)
+168,195,0.22269353128313893,Monty Python and the Holy Grail (1974),"Terminator, The (1984)"
+168,204,0.271474019088017,Monty Python and the Holy Grail (1974),Back to the Future (1985)
+168,210,0.24602332979851538,Monty Python and the Holy Grail (1974),Indiana Jones and the Last Crusade (1989)
+168,216,0.21951219512195122,Monty Python and the Holy Grail (1974),When Harry Met Sally... (1989)
+168,222,0.2014846235418876,Monty Python and the Holy Grail (1974),Star Trek: First Contact (1996)
+168,237,0.16436903499469777,Monty Python and the Holy Grail (1974),Jerry Maguire (1996)
+168,257,0.14634146341463414,Monty Python and the Holy Grail (1974),Men in Black (1997)
+168,258,0.17391304347826086,Monty Python and the Holy Grail (1974),Contact (1997)
+168,269,0.10180275715800637,Monty Python and the Holy Grail (1974),"Full Monty, The (1997)"
+168,276,0.13149522799575822,Monty Python and the Holy Grail (1974),Leaving Las Vegas (1995)
+168,286,0.1420996818663839,Monty Python and the Holy Grail (1974),"English Patient, The (1996)"
+168,288,0.1569459172852598,Monty Python and the Holy Grail (1974),Scream (1996)
+168,294,0.16436903499469777,Monty Python and the Holy Grail (1974),Liar Liar (1997)
+168,300,0.11770943796394485,Monty Python and the Holy Grail (1974),Air Force One (1997)
+168,302,0.09544008483563096,Monty Python and the Holy Grail (1974),L.A. Confidential (1997)
+168,313,0.10392364793213149,Monty Python and the Holy Grail (1974),Titanic (1997)
+168,318,0.1951219512195122,Monty Python and the Holy Grail (1974),Schindler's List (1993)
+168,328,0.08695652173913043,Monty Python and the Holy Grail (1974),Conspiracy Theory (1997)
+168,405,0.18027571580063625,Monty Python and the Holy Grail (1974),Mission: Impossible (1996)
+168,423,0.21527041357370094,Monty Python and the Holy Grail (1974),E.T. the Extra-Terrestrial (1982)
+168,748,0.10286320254506894,Monty Python and the Holy Grail (1974),"Saint, The (1997)"
+172,173,0.26617179215270415,"Empire Strikes Back, The (1980)","Princess Bride, The (1987)"
+172,174,0.34676564156945916,"Empire Strikes Back, The (1980)",Raiders of the Lost Ark (1981)
+172,181,0.3361611876988335,"Empire Strikes Back, The (1980)",Return of the Jedi (1983)
+172,183,0.24814422057264052,"Empire Strikes Back, The (1980)",Alien (1979)
+172,195,0.2672322375397667,"Empire Strikes Back, The (1980)","Terminator, The (1984)"
+172,204,0.2926829268292683,"Empire Strikes Back, The (1980)",Back to the Future (1985)
+172,210,0.2916224814422057,"Empire Strikes Back, The (1980)",Indiana Jones and the Last Crusade (1989)
+172,216,0.23117709437963946,"Empire Strikes Back, The (1980)",When Harry Met Sally... (1989)
+172,222,0.22693531283138918,"Empire Strikes Back, The (1980)",Star Trek: First Contact (1996)
+172,237,0.18875927889713678,"Empire Strikes Back, The (1980)",Jerry Maguire (1996)
+172,257,0.16224814422057265,"Empire Strikes Back, The (1980)",Men in Black (1997)
+172,258,0.2142099681866384,"Empire Strikes Back, The (1980)",Contact (1997)
+172,269,0.1071049840933192,"Empire Strikes Back, The (1980)","Full Monty, The (1997)"
+172,276,0.13679745493107104,"Empire Strikes Back, The (1980)",Leaving Las Vegas (1995)
+172,286,0.16967126193001061,"Empire Strikes Back, The (1980)","English Patient, The (1996)"
+172,288,0.18981972428419935,"Empire Strikes Back, The (1980)",Scream (1996)
+172,294,0.19830328738069988,"Empire Strikes Back, The (1980)",Liar Liar (1997)
+172,300,0.15164369034994699,"Empire Strikes Back, The (1980)",Air Force One (1997)
+172,302,0.10922587486744433,"Empire Strikes Back, The (1980)",L.A. Confidential (1997)
+172,313,0.14528101802757157,"Empire Strikes Back, The (1980)",Titanic (1997)
+172,318,0.22163308589607636,"Empire Strikes Back, The (1980)",Schindler's List (1993)
+172,328,0.10286320254506894,"Empire Strikes Back, The (1980)",Conspiracy Theory (1997)
+172,405,0.2205726405090138,"Empire Strikes Back, The (1980)",Mission: Impossible (1996)
+172,423,0.25556733828207845,"Empire Strikes Back, The (1980)",E.T. the Extra-Terrestrial (1982)
+172,748,0.11770943796394485,"Empire Strikes Back, The (1980)","Saint, The (1997)"
+173,174,0.2863202545068929,"Princess Bride, The (1987)",Raiders of the Lost Ark (1981)
+173,181,0.2757158006362672,"Princess Bride, The (1987)",Return of the Jedi (1983)
+173,183,0.2046659597030753,"Princess Bride, The (1987)",Alien (1979)
+173,195,0.21951219512195122,"Princess Bride, The (1987)","Terminator, The (1984)"
+173,204,0.25344644750795337,"Princess Bride, The (1987)",Back to the Future (1985)
+173,210,0.24072110286320256,"Princess Bride, The (1987)",Indiana Jones and the Last Crusade (1989)
+173,216,0.2142099681866384,"Princess Bride, The (1987)",When Harry Met Sally... (1989)
+173,222,0.20254506892895016,"Princess Bride, The (1987)",Star Trek: First Contact (1996)
+173,237,0.17073170731707318,"Princess Bride, The (1987)",Jerry Maguire (1996)
+173,257,0.14528101802757157,"Princess Bride, The (1987)",Men in Black (1997)
+173,258,0.18769883351007424,"Princess Bride, The (1987)",Contact (1997)
+173,269,0.1102863202545069,"Princess Bride, The (1987)","Full Monty, The (1997)"
+173,276,0.12195121951219512,"Princess Bride, The (1987)",Leaving Las Vegas (1995)
+173,286,0.15270413573700956,"Princess Bride, The (1987)","English Patient, The (1996)"
+173,288,0.17391304347826086,"Princess Bride, The (1987)",Scream (1996)
+173,294,0.18345705196182396,"Princess Bride, The (1987)",Liar Liar (1997)
+173,300,0.13149522799575822,"Princess Bride, The (1987)",Air Force One (1997)
+173,302,0.09862142099681867,"Princess Bride, The (1987)",L.A. Confidential (1997)
+173,313,0.12513255567338283,"Princess Bride, The (1987)",Titanic (1997)
+173,318,0.1951219512195122,"Princess Bride, The (1987)",Schindler's List (1993)
+173,328,0.09013785790031813,"Princess Bride, The (1987)",Conspiracy Theory (1997)
+173,405,0.18663838812301167,"Princess Bride, The (1987)",Mission: Impossible (1996)
+173,423,0.22163308589607636,"Princess Bride, The (1987)",E.T. the Extra-Terrestrial (1982)
+173,748,0.1071049840933192,"Princess Bride, The (1987)","Saint, The (1997)"
+174,181,0.36267232237539765,Raiders of the Lost Ark (1981),Return of the Jedi (1983)
+174,183,0.2704135737009544,Raiders of the Lost Ark (1981),Alien (1979)
+174,195,0.29056203605514314,Raiders of the Lost Ark (1981),"Terminator, The (1984)"
+174,204,0.31601272534464475,Raiders of the Lost Ark (1981),Back to the Future (1985)
+174,210,0.3064687168610817,Raiders of the Lost Ark (1981),Indiana Jones and the Last Crusade (1989)
+174,216,0.25344644750795337,Raiders of the Lost Ark (1981),When Harry Met Sally... (1989)
+174,222,0.24708377518557795,Raiders of the Lost Ark (1981),Star Trek: First Contact (1996)
+174,237,0.21845174973488865,Raiders of the Lost Ark (1981),Jerry Maguire (1996)
+174,257,0.1855779427359491,Raiders of the Lost Ark (1981),Men in Black (1997)
+174,258,0.2354188759278897,Raiders of the Lost Ark (1981),Contact (1997)
+174,269,0.1283138918345705,Raiders of the Lost Ark (1981),"Full Monty, The (1997)"
+174,276,0.17179215270413573,Raiders of the Lost Ark (1981),Leaving Las Vegas (1995)
+174,286,0.19830328738069988,Raiders of the Lost Ark (1981),"English Patient, The (1996)"
+174,288,0.2067868504772004,Raiders of the Lost Ark (1981),Scream (1996)
+174,294,0.22693531283138918,Raiders of the Lost Ark (1981),Liar Liar (1997)
+174,300,0.1728525980911983,Raiders of the Lost Ark (1981),Air Force One (1997)
+174,302,0.1283138918345705,Raiders of the Lost Ark (1981),L.A. Confidential (1997)
+174,313,0.15482502651113467,Raiders of the Lost Ark (1981),Titanic (1997)
+174,318,0.24390243902439024,Raiders of the Lost Ark (1981),Schindler's List (1993)
+174,328,0.11452810180275716,Raiders of the Lost Ark (1981),Conspiracy Theory (1997)
+174,405,0.24072110286320256,Raiders of the Lost Ark (1981),Mission: Impossible (1996)
+174,423,0.2799575821845175,Raiders of the Lost Ark (1981),E.T. the Extra-Terrestrial (1982)
+174,748,0.13361611876988336,Raiders of the Lost Ark (1981),"Saint, The (1997)"
+181,183,0.256627783669141,Return of the Jedi (1983),Alien (1979)
+181,195,0.2725344644750795,Return of the Jedi (1983),"Terminator, The (1984)"
+181,204,0.30328738069989397,Return of the Jedi (1983),Back to the Future (1985)
+181,210,0.30010604453870626,Return of the Jedi (1983),Indiana Jones and the Last Crusade (1989)
+181,216,0.23753976670201485,Return of the Jedi (1983),When Harry Met Sally... (1989)
+181,222,0.31601272534464475,Return of the Jedi (1983),Star Trek: First Contact (1996)
+181,237,0.2841993637327678,Return of the Jedi (1983),Jerry Maguire (1996)
+181,257,0.2682926829268293,Return of the Jedi (1983),Men in Black (1997)
+181,258,0.31601272534464475,Return of the Jedi (1983),Contact (1997)
+181,269,0.15164369034994699,Return of the Jedi (1983),"Full Monty, The (1997)"
+181,276,0.2067868504772004,Return of the Jedi (1983),Leaving Las Vegas (1995)
+181,286,0.23223753976670203,Return of the Jedi (1983),"English Patient, The (1996)"
+181,288,0.264050901378579,Return of the Jedi (1983),Scream (1996)
+181,294,0.2916224814422057,Return of the Jedi (1983),Liar Liar (1997)
+181,300,0.23753976670201485,Return of the Jedi (1983),Air Force One (1997)
+181,302,0.14422057264050903,Return of the Jedi (1983),L.A. Confidential (1997)
+181,313,0.1919406150583245,Return of the Jedi (1983),Titanic (1997)
+181,318,0.2301166489925769,Return of the Jedi (1983),Schindler's List (1993)
+181,328,0.15800636267232238,Return of the Jedi (1983),Conspiracy Theory (1997)
+181,405,0.29056203605514314,Return of the Jedi (1983),Mission: Impossible (1996)
+181,423,0.26299045599151644,Return of the Jedi (1983),E.T. the Extra-Terrestrial (1982)
+181,748,0.19300106044538706,Return of the Jedi (1983),"Saint, The (1997)"
+183,195,0.22905620360551432,Alien (1979),"Terminator, The (1984)"
+183,204,0.2258748674443266,Alien (1979),Back to the Future (1985)
+183,210,0.22799575821845175,Alien (1979),Indiana Jones and the Last Crusade (1989)
+183,216,0.18981972428419935,Alien (1979),When Harry Met Sally... (1989)
+183,222,0.18981972428419935,Alien (1979),Star Trek: First Contact (1996)
+183,237,0.1537645811240721,Alien (1979),Jerry Maguire (1996)
+183,257,0.1261930010604454,Alien (1979),Men in Black (1997)
+183,258,0.17179215270413573,Alien (1979),Contact (1997)
+183,269,0.08695652173913043,Alien (1979),"Full Monty, The (1997)"
+183,276,0.11346765641569459,Alien (1979),Leaving Las Vegas (1995)
+183,286,0.13361611876988336,Alien (1979),"English Patient, The (1996)"
+183,288,0.16118769883351008,Alien (1979),Scream (1996)
+183,294,0.15906680805938495,Alien (1979),Liar Liar (1997)
+183,300,0.12195121951219512,Alien (1979),Air Force One (1997)
+183,302,0.09331919406150584,Alien (1979),L.A. Confidential (1997)
+183,313,0.11240721102863202,Alien (1979),Titanic (1997)
+183,318,0.16542948038176034,Alien (1979),Schindler's List (1993)
+183,328,0.08271474019088017,Alien (1979),Conspiracy Theory (1997)
+183,405,0.176033934252386,Alien (1979),Mission: Impossible (1996)
+183,423,0.20890774125132555,Alien (1979),E.T. the Extra-Terrestrial (1982)
+183,748,0.09650053022269353,Alien (1979),"Saint, The (1997)"
+195,204,0.24708377518557795,"Terminator, The (1984)",Back to the Future (1985)
+195,210,0.2417815482502651,"Terminator, The (1984)",Indiana Jones and the Last Crusade (1989)
+195,216,0.19936373276776245,"Terminator, The (1984)",When Harry Met Sally... (1989)
+195,222,0.19830328738069988,"Terminator, The (1984)",Star Trek: First Contact (1996)
+195,237,0.1664899257688229,"Terminator, The (1984)",Jerry Maguire (1996)
+195,257,0.1420996818663839,"Terminator, The (1984)",Men in Black (1997)
+195,258,0.18133616118769882,"Terminator, The (1984)",Contact (1997)
+195,269,0.09437963944856839,"Terminator, The (1984)","Full Monty, The (1997)"
+195,276,0.12513255567338283,"Terminator, The (1984)",Leaving Las Vegas (1995)
+195,286,0.1283138918345705,"Terminator, The (1984)","English Patient, The (1996)"
+195,288,0.16967126193001061,"Terminator, The (1984)",Scream (1996)
+195,294,0.17073170731707318,"Terminator, The (1984)",Liar Liar (1997)
+195,300,0.12725344644750794,"Terminator, The (1984)",Air Force One (1997)
+195,302,0.09437963944856839,"Terminator, The (1984)",L.A. Confidential (1997)
+195,313,0.10816542948038176,"Terminator, The (1984)",Titanic (1997)
+195,318,0.1919406150583245,"Terminator, The (1984)",Schindler's List (1993)
+195,328,0.09437963944856839,"Terminator, The (1984)",Conspiracy Theory (1997)
+195,405,0.18981972428419935,"Terminator, The (1984)",Mission: Impossible (1996)
+195,423,0.21739130434782608,"Terminator, The (1984)",E.T. the Extra-Terrestrial (1982)
+195,748,0.10922587486744433,"Terminator, The (1984)","Saint, The (1997)"
+204,210,0.2788971367974549,Back to the Future (1985),Indiana Jones and the Last Crusade (1989)
+204,216,0.24072110286320256,Back to the Future (1985),When Harry Met Sally... (1989)
+204,222,0.2110286320254507,Back to the Future (1985),Star Trek: First Contact (1996)
+204,237,0.19618239660657477,Back to the Future (1985),Jerry Maguire (1996)
+204,257,0.16118769883351008,Back to the Future (1985),Men in Black (1997)
+204,258,0.19406150583244963,Back to the Future (1985),Contact (1997)
+204,269,0.10498409331919406,Back to the Future (1985),"Full Monty, The (1997)"
+204,276,0.13997879109225875,Back to the Future (1985),Leaving Las Vegas (1995)
+204,286,0.16436903499469777,Back to the Future (1985),"English Patient, The (1996)"
+204,288,0.18027571580063625,Back to the Future (1985),Scream (1996)
+204,294,0.19300106044538706,Back to the Future (1985),Liar Liar (1997)
+204,300,0.14103923647932132,Back to the Future (1985),Air Force One (1997)
+204,302,0.09968186638388123,Back to the Future (1985),L.A. Confidential (1997)
+204,313,0.13043478260869565,Back to the Future (1985),Titanic (1997)
+204,318,0.21951219512195122,Back to the Future (1985),Schindler's List (1993)
+204,328,0.09650053022269353,Back to the Future (1985),Conspiracy Theory (1997)
+204,405,0.20360551431601273,Back to the Future (1985),Mission: Impossible (1996)
+204,423,0.2545068928950159,Back to the Future (1985),E.T. the Extra-Terrestrial (1982)
+204,748,0.1102863202545069,Back to the Future (1985),"Saint, The (1997)"
+210,216,0.22163308589607636,Indiana Jones and the Last Crusade (1989),When Harry Met Sally... (1989)
+210,222,0.20784729586426298,Indiana Jones and the Last Crusade (1989),Star Trek: First Contact (1996)
+210,237,0.18345705196182396,Indiana Jones and the Last Crusade (1989),Jerry Maguire (1996)
+210,257,0.15588547189819724,Indiana Jones and the Last Crusade (1989),Men in Black (1997)
+210,258,0.19300106044538706,Indiana Jones and the Last Crusade (1989),Contact (1997)
+210,269,0.10392364793213149,Indiana Jones and the Last Crusade (1989),"Full Monty, The (1997)"
+210,276,0.12089077412513255,Indiana Jones and the Last Crusade (1989),Leaving Las Vegas (1995)
+210,286,0.14634146341463414,Indiana Jones and the Last Crusade (1989),"English Patient, The (1996)"
+210,288,0.176033934252386,Indiana Jones and the Last Crusade (1989),Scream (1996)
+210,294,0.18769883351007424,Indiana Jones and the Last Crusade (1989),Liar Liar (1997)
+210,300,0.14422057264050903,Indiana Jones and the Last Crusade (1989),Air Force One (1997)
+210,302,0.0911983032873807,Indiana Jones and the Last Crusade (1989),L.A. Confidential (1997)
+210,313,0.13361611876988336,Indiana Jones and the Last Crusade (1989),Titanic (1997)
+210,318,0.19724284199363734,Indiana Jones and the Last Crusade (1989),Schindler's List (1993)
+210,328,0.09331919406150584,Indiana Jones and the Last Crusade (1989),Conspiracy Theory (1997)
+210,405,0.2110286320254507,Indiana Jones and the Last Crusade (1989),Mission: Impossible (1996)
+210,423,0.23329798515376457,Indiana Jones and the Last Crusade (1989),E.T. the Extra-Terrestrial (1982)
+210,748,0.10922587486744433,Indiana Jones and the Last Crusade (1989),"Saint, The (1997)"
+216,222,0.16861081654294804,When Harry Met Sally... (1989),Star Trek: First Contact (1996)
+216,237,0.18345705196182396,When Harry Met Sally... (1989),Jerry Maguire (1996)
+216,257,0.1283138918345705,When Harry Met Sally... (1989),Men in Black (1997)
+216,258,0.16542948038176034,When Harry Met Sally... (1989),Contact (1997)
+216,269,0.09968186638388123,When Harry Met Sally... (1989),"Full Monty, The (1997)"
+216,276,0.12513255567338283,When Harry Met Sally... (1989),Leaving Las Vegas (1995)
+216,286,0.1537645811240721,When Harry Met Sally... (1989),"English Patient, The (1996)"
+216,288,0.14952279957582185,When Harry Met Sally... (1989),Scream (1996)
+216,294,0.1664899257688229,When Harry Met Sally... (1989),Liar Liar (1997)
+216,300,0.1261930010604454,When Harry Met Sally... (1989),Air Force One (1997)
+216,302,0.088016967126193,When Harry Met Sally... (1989),L.A. Confidential (1997)
+216,313,0.11664899257688228,When Harry Met Sally... (1989),Titanic (1997)
+216,318,0.19936373276776245,When Harry Met Sally... (1989),Schindler's List (1993)
+216,328,0.08059384941675504,When Harry Met Sally... (1989),Conspiracy Theory (1997)
+216,405,0.1664899257688229,When Harry Met Sally... (1989),Mission: Impossible (1996)
+216,423,0.2110286320254507,When Harry Met Sally... (1989),E.T. the Extra-Terrestrial (1982)
+216,748,0.0911983032873807,When Harry Met Sally... (1989),"Saint, The (1997)"
+222,237,0.22163308589607636,Star Trek: First Contact (1996),Jerry Maguire (1996)
+222,257,0.20572640509013787,Star Trek: First Contact (1996),Men in Black (1997)
+222,258,0.2598091198303287,Star Trek: First Contact (1996),Contact (1997)
+222,269,0.10604453870625663,Star Trek: First Contact (1996),"Full Monty, The (1997)"
+222,276,0.15164369034994699,Star Trek: First Contact (1996),Leaving Las Vegas (1995)
+222,286,0.16967126193001061,Star Trek: First Contact (1996),"English Patient, The (1996)"
+222,288,0.2046659597030753,Star Trek: First Contact (1996),Scream (1996)
+222,294,0.22481442205726404,Star Trek: First Contact (1996),Liar Liar (1997)
+222,300,0.18027571580063625,Star Trek: First Contact (1996),Air Force One (1997)
+222,302,0.1007423117709438,Star Trek: First Contact (1996),L.A. Confidential (1997)
+222,313,0.1283138918345705,Star Trek: First Contact (1996),Titanic (1997)
+222,318,0.1569459172852598,Star Trek: First Contact (1996),Schindler's List (1993)
+222,328,0.1261930010604454,Star Trek: First Contact (1996),Conspiracy Theory (1997)
+222,405,0.2449628844114528,Star Trek: First Contact (1996),Mission: Impossible (1996)
+222,423,0.18451749734888653,Star Trek: First Contact (1996),E.T. the Extra-Terrestrial (1982)
+222,748,0.15588547189819724,Star Trek: First Contact (1996),"Saint, The (1997)"
+237,257,0.18769883351007424,Jerry Maguire (1996),Men in Black (1997)
+237,258,0.2354188759278897,Jerry Maguire (1996),Contact (1997)
+237,269,0.1261930010604454,Jerry Maguire (1996),"Full Monty, The (1997)"
+237,276,0.2110286320254507,Jerry Maguire (1996),Leaving Las Vegas (1995)
+237,286,0.20784729586426298,Jerry Maguire (1996),"English Patient, The (1996)"
+237,288,0.21951219512195122,Jerry Maguire (1996),Scream (1996)
+237,294,0.23753976670201485,Jerry Maguire (1996),Liar Liar (1997)
+237,300,0.19724284199363734,Jerry Maguire (1996),Air Force One (1997)
+237,302,0.11983032873807,Jerry Maguire (1996),L.A. Confidential (1997)
+237,313,0.1474019088016967,Jerry Maguire (1996),Titanic (1997)
+237,318,0.176033934252386,Jerry Maguire (1996),Schindler's List (1993)
+237,328,0.1420996818663839,Jerry Maguire (1996),Conspiracy Theory (1997)
+237,405,0.2417815482502651,Jerry Maguire (1996),Mission: Impossible (1996)
+237,423,0.176033934252386,Jerry Maguire (1996),E.T. the Extra-Terrestrial (1982)
+237,748,0.15270413573700956,Jerry Maguire (1996),"Saint, The (1997)"
+257,258,0.2110286320254507,Men in Black (1997),Contact (1997)
+257,269,0.10604453870625663,Men in Black (1997),"Full Monty, The (1997)"
+257,276,0.13679745493107104,Men in Black (1997),Leaving Las Vegas (1995)
+257,286,0.1537645811240721,Men in Black (1997),"English Patient, The (1996)"
+257,288,0.16861081654294804,Men in Black (1997),Scream (1996)
+257,294,0.19618239660657477,Men in Black (1997),Liar Liar (1997)
+257,300,0.16118769883351008,Men in Black (1997),Air Force One (1997)
+257,302,0.1007423117709438,Men in Black (1997),L.A. Confidential (1997)
+257,313,0.12725344644750794,Men in Black (1997),Titanic (1997)
+257,318,0.11664899257688228,Men in Black (1997),Schindler's List (1993)
+257,328,0.1102863202545069,Men in Black (1997),Conspiracy Theory (1997)
+257,405,0.20890774125132555,Men in Black (1997),Mission: Impossible (1996)
+257,423,0.14528101802757157,Men in Black (1997),E.T. the Extra-Terrestrial (1982)
+257,748,0.12195121951219512,Men in Black (1997),"Saint, The (1997)"
+258,269,0.22269353128313893,Contact (1997),"Full Monty, The (1997)"
+258,276,0.17497348886532343,Contact (1997),Leaving Las Vegas (1995)
+258,286,0.3181336161187699,Contact (1997),"English Patient, The (1996)"
+258,288,0.32343584305408274,Contact (1997),Scream (1996)
+258,294,0.32873806998939553,Contact (1997),Liar Liar (1997)
+258,300,0.32237539766702017,Contact (1997),Air Force One (1997)
+258,302,0.22269353128313893,Contact (1997),L.A. Confidential (1997)
+258,313,0.2576882290562036,Contact (1997),Titanic (1997)
+258,318,0.16967126193001061,Contact (1997),Schindler's List (1993)
+258,328,0.2449628844114528,Contact (1997),Conspiracy Theory (1997)
+258,405,0.21527041357370094,Contact (1997),Mission: Impossible (1996)
+258,423,0.17391304347826086,Contact (1997),E.T. the Extra-Terrestrial (1982)
+258,748,0.25026511134676566,Contact (1997),"Saint, The (1997)"
+269,276,0.1102863202545069,"Full Monty, The (1997)",Leaving Las Vegas (1995)
+269,286,0.23966065747614,"Full Monty, The (1997)","English Patient, The (1996)"
+269,288,0.17815482502651114,"Full Monty, The (1997)",Scream (1996)
+269,294,0.17497348886532343,"Full Monty, The (1997)",Liar Liar (1997)
+269,300,0.18981972428419935,"Full Monty, The (1997)",Air Force One (1997)
+269,302,0.18663838812301167,"Full Monty, The (1997)",L.A. Confidential (1997)
+269,313,0.16861081654294804,"Full Monty, The (1997)",Titanic (1997)
+269,318,0.09331919406150584,"Full Monty, The (1997)",Schindler's List (1993)
+269,328,0.13043478260869565,"Full Monty, The (1997)",Conspiracy Theory (1997)
+269,405,0.09862142099681867,"Full Monty, The (1997)",Mission: Impossible (1996)
+269,423,0.09013785790031813,"Full Monty, The (1997)",E.T. the Extra-Terrestrial (1982)
+269,748,0.12407211028632026,"Full Monty, The (1997)","Saint, The (1997)"
+276,286,0.18451749734888653,Leaving Las Vegas (1995),"English Patient, The (1996)"
+276,288,0.18875927889713678,Leaving Las Vegas (1995),Scream (1996)
+276,294,0.17815482502651114,Leaving Las Vegas (1995),Liar Liar (1997)
+276,300,0.1378579003181336,Leaving Las Vegas (1995),Air Force One (1997)
+276,302,0.10604453870625663,Leaving Las Vegas (1995),L.A. Confidential (1997)
+276,313,0.12089077412513255,Leaving Las Vegas (1995),Titanic (1997)
+276,318,0.1420996818663839,Leaving Las Vegas (1995),Schindler's List (1993)
+276,328,0.09968186638388123,Leaving Las Vegas (1995),Conspiracy Theory (1997)
+276,405,0.16118769883351008,Leaving Las Vegas (1995),Mission: Impossible (1996)
+276,423,0.11558854718981973,Leaving Las Vegas (1995),E.T. the Extra-Terrestrial (1982)
+276,748,0.10286320254506894,Leaving Las Vegas (1995),"Saint, The (1997)"
+286,288,0.27465535524920465,"English Patient, The (1996)",Scream (1996)
+286,294,0.2767762460233298,"English Patient, The (1996)",Liar Liar (1997)
+286,300,0.2672322375397667,"English Patient, The (1996)",Air Force One (1997)
+286,302,0.22481442205726404,"English Patient, The (1996)",L.A. Confidential (1997)
+286,313,0.23329798515376457,"English Patient, The (1996)",Titanic (1997)
+286,318,0.16436903499469777,"English Patient, The (1996)",Schindler's List (1993)
+286,328,0.19406150583244963,"English Patient, The (1996)",Conspiracy Theory (1997)
+286,405,0.16118769883351008,"English Patient, The (1996)",Mission: Impossible (1996)
+286,423,0.14316012725344646,"English Patient, The (1996)",E.T. the Extra-Terrestrial (1982)
+286,748,0.19724284199363734,"English Patient, The (1996)","Saint, The (1997)"
+288,294,0.3266171792152704,Scream (1996),Liar Liar (1997)
+288,300,0.2704135737009544,Scream (1996),Air Force One (1997)
+288,302,0.19724284199363734,Scream (1996),L.A. Confidential (1997)
+288,313,0.2301166489925769,Scream (1996),Titanic (1997)
+288,318,0.1569459172852598,Scream (1996),Schindler's List (1993)
+288,328,0.20572640509013787,Scream (1996),Conspiracy Theory (1997)
+288,405,0.2046659597030753,Scream (1996),Mission: Impossible (1996)
+288,423,0.14952279957582185,Scream (1996),E.T. the Extra-Terrestrial (1982)
+288,748,0.21951219512195122,Scream (1996),"Saint, The (1997)"
+294,300,0.3022269353128314,Liar Liar (1997),Air Force One (1997)
+294,302,0.16967126193001061,Liar Liar (1997),L.A. Confidential (1997)
+294,313,0.21527041357370094,Liar Liar (1997),Titanic (1997)
+294,318,0.1569459172852598,Liar Liar (1997),Schindler's List (1993)
+294,328,0.22375397667020147,Liar Liar (1997),Conspiracy Theory (1997)
+294,405,0.2163308589607635,Liar Liar (1997),Mission: Impossible (1996)
+294,423,0.16542948038176034,Liar Liar (1997),E.T. the Extra-Terrestrial (1982)
+294,748,0.23753976670201485,Liar Liar (1997),"Saint, The (1997)"
+300,302,0.19300106044538706,Air Force One (1997),L.A. Confidential (1997)
+300,313,0.22481442205726404,Air Force One (1997),Titanic (1997)
+300,318,0.12513255567338283,Air Force One (1997),Schindler's List (1993)
+300,328,0.2417815482502651,Air Force One (1997),Conspiracy Theory (1997)
+300,405,0.17073170731707318,Air Force One (1997),Mission: Impossible (1996)
+300,423,0.12407211028632026,Air Force One (1997),E.T. the Extra-Terrestrial (1982)
+300,748,0.22693531283138918,Air Force One (1997),"Saint, The (1997)"
+302,313,0.17815482502651114,L.A. Confidential (1997),Titanic (1997)
+302,318,0.09968186638388123,L.A. Confidential (1997),Schindler's List (1993)
+302,328,0.14846235418875928,L.A. Confidential (1997),Conspiracy Theory (1997)
+302,405,0.09650053022269353,L.A. Confidential (1997),Mission: Impossible (1996)
+302,423,0.08695652173913043,L.A. Confidential (1997),E.T. the Extra-Terrestrial (1982)
+302,748,0.1378579003181336,L.A. Confidential (1997),"Saint, The (1997)"
+313,318,0.11770943796394485,Titanic (1997),Schindler's List (1993)
+313,328,0.17391304347826086,Titanic (1997),Conspiracy Theory (1997)
+313,405,0.13679745493107104,Titanic (1997),Mission: Impossible (1996)
+313,423,0.11983032873807,Titanic (1997),E.T. the Extra-Terrestrial (1982)
+313,748,0.16755037115588547,Titanic (1997),"Saint, The (1997)"
+318,328,0.08695652173913043,Schindler's List (1993),Conspiracy Theory (1997)
+318,405,0.1633085896076352,Schindler's List (1993),Mission: Impossible (1996)
+318,423,0.2046659597030753,Schindler's List (1993),E.T. the Extra-Terrestrial (1982)
+318,748,0.0911983032873807,Schindler's List (1993),"Saint, The (1997)"
+328,405,0.1261930010604454,Conspiracy Theory (1997),Mission: Impossible (1996)
+328,423,0.088016967126193,Conspiracy Theory (1997),E.T. the Extra-Terrestrial (1982)
+328,748,0.18027571580063625,Conspiracy Theory (1997),"Saint, The (1997)"
+405,423,0.18663838812301167,Mission: Impossible (1996),E.T. the Extra-Terrestrial (1982)
+405,748,0.15482502651113467,Mission: Impossible (1996),"Saint, The (1997)"
+423,748,0.09544008483563096,E.T. the Extra-Terrestrial (1982),"Saint, The (1997)"
