@@ -53,6 +53,7 @@ def load_movie_titles(path):
                 movieid = int(movieid)
                 title_dict[movieid] = title
                 node_dict[title] = movieid
+    print("Movie titles loaded.")
     return title_dict, node_dict
 
 def load_raw_bipartite(path, overwrite=False):
