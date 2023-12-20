@@ -4,19 +4,22 @@ import networkx as nx
 import os
 
 # Path variables
-raw_data_path = "./data/raw/"
-figure_path = "./data/figures/"
-bipartite_path = "./data/bipartite/"
-projection_path = "./data/projections/"
+raw_data_path = "../data/raw/"
+figure_path = "../data/figures/"
+bipartite_path = "../data/bipartite/"
+projection_path = "../data/projections/"
 
-def save_edgelist(k, graph, file_path, title_dict, overwrite=False):
+def save_edgelist(graph, file_path, title_dict, k=None, overwrite=False):
     """
     Save a NetworkX graph with weights as an edge list at the specified file path.
     Import into gephi with Data Laboratory > Import Spreadsheet.
     """
     if overwrite or not os.path.exists(projection_path+file_path):
 
-        k_highest_weight_edges = sorted([(u,v,attr['weight']) for u,v,attr in graph.edges(data=True)], reverse=True, key=lambda x:x[2])[:k]
+        k_highest_weight_edges = sorted([(u,v,attr['weight']) for u,v,attr in graph.edges(data=True)], reverse=True, key=lambda x:x[2])
+
+        if not k is None:
+            k_highest_weight_edges = k_highest_weight_edges[:k]
 
         with open(projection_path+file_path+".csv", 'w') as file:
             file.write(f"Source;Target;Weight;Label1;Label2\n")
@@ -30,9 +33,13 @@ def save_projection(G, path, overwrite=False):
             pickle.dump(G, f)
         print("Projection saved.")
 
-def load_projection(path):
+def load_projection(path, manual_path=False):
     if os.path.exists(projection_path+path):
         with open(projection_path+path, 'rb') as f:
+            print("Projection loaded.")
+            return pickle.load(f)
+    elif manual_path:
+        with open(path, 'rb') as f:
             print("Projection loaded.")
             return pickle.load(f)
     else:
