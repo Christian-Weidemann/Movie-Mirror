@@ -4,10 +4,10 @@ import networkx as nx
 import os
 
 # Path variables
-raw_data_path = "../data/raw/"
-figure_path = "../data/figures/"
-bipartite_path = "../data/bipartite/"
-projection_path = "../data/projections/"
+raw_data_path = "./data/raw/"
+figure_path = "./data/figures/"
+bipartite_path = "./data/bipartite/"
+projection_path = "./data/projections/"
 
 def save_edgelist(graph, file_path, title_dict, k=None, overwrite=False):
     """
